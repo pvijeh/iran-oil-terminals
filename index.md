@@ -90,7 +90,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 **Fines: no lasting effect**
 
-- **No effect:** 29 of 34 fines moved the shares less than 5% either way over five days. Only two fell further: Standard Chartered in 2012 and Yantai Jereh (−6%) in 2018. That includes BNP Paribas's $964M in 2014 and UniCredit's $611M in 2019.
+- **No effect:** 29 of 34 fines moved the shares less than 5% either way over five days, including BNP Paribas's $964M in 2014 and UniCredit's $611M in 2019. Only two fell further: Standard Chartered in 2012 and Yantai Jereh (−6%) in 2018.
 - **The exception:** Standard Chartered fell 22% in two days in August 2012. A New York regulator accused it of hiding Iran payments and threatened to take away its licence to operate in New York.
 
 **What this means for the list below**
