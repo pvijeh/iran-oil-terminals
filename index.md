@@ -221,17 +221,17 @@ Every source is saved in [receipts/banks/](https://github.com/pvijeh/iran-oil-te
 
 **Past US Iran actions against non-Chinese banks** (share move minus the local index, measured from the close before the news)
 
-| Date | Bank | Listed | Action | 1 day | 5 days | 20 days |
-|---|---|---|---|---|---|---|
-| 2016-03-19 | Halkbank | Borsa Istanbul | US arrests Reza Zarrab, whose Iran gold scheme ran through the bank | +2.5% | −6.0% | −7.5% |
-| 2017-03-28 | Halkbank | Borsa Istanbul | US arrests deputy CEO Hakan Atilla | −13.3% | −12.5% | −5.0% |
-| 2018-01-03 | Halkbank | Borsa Istanbul | Atilla convicted | +0.8% | −4.3% | −10.1% |
-| 2019-10-15 | Halkbank | Borsa Istanbul | US charges the bank itself | −2.3% | −2.4% | +0.1% |
-| 2020-04-20 | Industrial Bank of Korea | Korea Exchange | $86M penalty for Iran payments through New York | −1.9% | −2.3% | −4.7% |
-| 2026-06-10 | Halkbank | Borsa Istanbul | US moves to drop the case, after a March deferred prosecution deal | 0.0% | +2.3% | −10.5% |
-| 2026-08-28 | Banque Misr UAE | No (branch of state-owned Egyptian bank) | FinCEN proposes cutting off its US accounts | – | – | – |
-| 2026-09-04 | Golden Global Bank | No | OFAC sanctions it | – | – | – |
-| 2026-09-14 | VTB | Moscow Exchange | OFAC sanctions it; already under US Russia sanctions | −1.2% | +0.2% | – |
+| Announced by | Date | Bank | Listed | Action | 1 day | 5 days | 20 days |
+|---|---|---|---|---|---|---|---|
+| [US court: Zarrab indictment, unsealed 2016-03-21](https://storage.courtlistener.com/recap/gov.uscourts.nysd.451245/gov.uscourts.nysd.451245.2.0.pdf) | 2016-03-19 | Halkbank | Borsa Istanbul | US arrests Reza Zarrab, whose Iran gold scheme ran through the bank | +2.5% | −6.0% | −7.5% |
+| [US Justice Dept (SDNY)](https://www.justice.gov/usao-sdny/pr/turkish-banker-arrested-conspiring-evade-us-sanctions-against-iran-and-other-offenses) | 2017-03-28 | Halkbank | Borsa Istanbul | US arrests deputy CEO Hakan Atilla | −13.3% | −12.5% | −5.0% |
+| [US Justice Dept (SDNY)](https://www.justice.gov/usao-sdny/pr/turkish-banker-convicted-conspiring-evade-us-sanctions-against-iran-and-other-offenses) | 2018-01-03 | Halkbank | Borsa Istanbul | Atilla convicted | +0.8% | −4.3% | −10.1% |
+| [US Justice Dept (SDNY)](https://www.justice.gov/usao-sdny/pr/turkish-bank-charged-manhattan-federal-court-its-participation-multibillion-dollar) | 2019-10-15 | Halkbank | Borsa Istanbul | US charges the bank itself | −2.3% | −2.4% | +0.1% |
+| [New York DFS](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202004201) | 2020-04-20 | Industrial Bank of Korea | Korea Exchange | $86M penalty for Iran payments through New York | −1.9% | −2.3% | −4.7% |
+| [US court filing](https://storage.courtlistener.com/recap/gov.uscourts.nysd.524639/gov.uscourts.nysd.524639.767.0.pdf) | 2026-06-10 | Halkbank | Borsa Istanbul | US moves to drop the case, after a March deferred prosecution deal | 0.0% | +2.3% | −10.5% |
+| [US Treasury](https://home.treasury.gov/news/press-releases/sb0617) | 2026-08-28 | Banque Misr UAE | No (branch of state-owned Egyptian bank) | FinCEN proposes cutting off its US accounts | – | – | – |
+| [US Treasury](https://home.treasury.gov/news/press-releases/sb0622) | 2026-09-04 | Golden Global Bank | No | OFAC sanctions it | – | – | – |
+| [US Treasury](https://home.treasury.gov/news/press-releases/sb0629) | 2026-09-14 | VTB | Moscow Exchange | OFAC sanctions it; already under US Russia sanctions | −1.2% | +0.2% | – |
 
 Earlier European bank fines are in the share-price table above. Iraq's banks cut off in 2012 and 2023–25 trade on the Iraq Stock Exchange, which has no free price data.
 
