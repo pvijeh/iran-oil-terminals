@@ -21,6 +21,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
   - **Oil terminals:** free ship tracking can't show which terminal is next, because sanctioned tankers stop showing up at Chinese piers once sanctioned. The one exception is seven sanctioned gas carriers docking openly at Chaozhou, in southern China.
 - **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
 - **Where to look:** the biggest falls came when a company's main business was cut off. We rank five areas to look for the next one: car-parts suppliers, electronics makers, tanker owners, banks, then part-owned oil terminals.
+- **Timing:** OFAC usually posts at about 10 am New York time, after Asian markets close, so Hong Kong and mainland shares take the whole hit at the next open. Only Istanbul, London, Moscow and New York are still trading when the news lands.
 - **Banks:** no listed non-Chinese bank has been cut off from the dollar over Iran yet. Charges and fines moved shares 2–13%, most of all when Halkbank's deputy CEO was arrested in 2017. US court records also name QNB Bank, Bank of Baroda, and units of Emirates NBD and Saudi National Bank as handling money in the Halkbank scheme.
 - **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. EU exports to Iran fell to €3.0bn in 2025, mostly medicine and machinery. We found no European listed company exposed to the 2026 sectors.
 - **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
@@ -112,6 +113,51 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 - **A short needs the company cut off,** not just fined or holding a minority stake in a sanctioned site.
 - **Mainland-only shares do fall,** as Hengli and ZTE's Shenzhen shares show. But foreign funds have little ability to short them. Hong Kong-listed names are the practical shorts.
+
+## When the news comes out, and how fast prices react
+
+**Short answer: OFAC usually posts at about 10 am New York time, after the Asian markets have closed. Hong Kong and mainland shares then take the whole hit at the next morning's open. Being first to the news only helps for markets still open at 10 am New York time: Istanbul, London, Moscow and New York.**
+
+**Where it's posted first**
+
+- **OFAC's sanctions-list service** publishes every update to the list files with an exact timestamp: [sanctionslistservice.ofac.treas.gov/changes/history/2026](https://sanctionslistservice.ofac.treas.gov/changes/history/2026). Times are US Eastern. We checked them against the file's own server time.
+- **The Treasury press release seems to come after the list update.** In the three cases we could compare, the first archived copy of the press release appeared 40 minutes to 3.5 hours after the list update. Those archive copies lag, so this only shows the press release wasn't earlier.
+  - Car-industry sanctions, 2026-10-01: list at 12:36 ET, press release first archived at 13:23 ET.
+  - VTB, 2026-09-14: list at 14:35 ET, press release first archived at 15:34 ET.
+  - Five-sector order, 2026-08-24: list at 13:09 ET, press release first archived at 16:37 ET.
+- **FinCEN bank cut-offs come out in a press release first.** Banque Misr UAE was announced on 2026-08-28, and the notice reached the [Federal Register's public-inspection page](https://unblock.federalregister.gov/) on 08-31.
+
+**What time of day OFAC posts** (all 391 list updates, 2024 to 2026-10-05)
+
+- 10:00–10:59 am ET: 195 updates (half), usually at about 10:01.
+- 9 am to 3 pm ET: 350 updates (90%).
+- Iran examples: Golden Global Bank 10:01 ET, VTB 14:35 ET.
+
+**Which markets are open when OFAC posts** (standard trading hours, in New York time during US summer time)
+
+- **Closed:** Hong Kong and Shanghai (close 4:00 and 3:00 am), Seoul (2:30 am), Mumbai (6:00 am), Dubai (7:00 am).
+- **Open for about another hour:** Istanbul (closes 11:00 am), London (11:30 am), Moscow main session (11:40 am).
+- **Open all day:** New York, including US-traded certificates for foreign shares (ADRs).
+
+**How fast prices react** (first session after the action; share move, with the local index in brackets)
+
+| Company | Action date | At the open | At the close | After 5 days |
+|---|---|---|---|---|
+| COSCO Shipping Energy (Hong Kong) | 2019-09-25 | −25.0% (−0.4%) | −21.1% (+0.6%) | −26.4% |
+| ZTE (Hong Kong), after its suspension | 2016-03-07 | −13.7% (+0.7%) | −10.3% (+0.5%) | −14.7% |
+| Hengli Petrochemical (Shanghai) | 2026-04-24 | −10.0% (−0.1%), the daily limit | −10.0% (+0.2%) | −2.5% |
+| Halkbank, deputy CEO arrested (Istanbul) | 2017-03-28 | −10.6% (−1.0%) | −14.3% (−1.0%) | −14.3% |
+| Halkbank, bank charged (Istanbul) | 2019-10-15 | −7.2% (−1.8%) | −3.5% (−1.2%) | +0.4% |
+| Sinopec Kantons (Hong Kong) | 2025-10-09 | −1.8% (−0.9%) | −4.3% (−1.7%) | −6.9% |
+| Industrial Bank of Korea (Seoul) | 2020-04-20 | −1.8% (−0.6%) | −2.9% (−1.0%) | −1.0% |
+| Qingdao Port (Hong Kong) | 2025-08-21 | 0.0% (+0.4%) | −0.6% (+0.9%) | −0.5% |
+| PetroChina (Hong Kong) | 2025-08-21 | 0.0% (+0.4%) | −0.5% (+0.9%) | −2.3% |
+
+- **For the big falls, nearly all of it happens at the open.** COSCO Shipping Energy fell 25% at the open and was down 26% after a week.
+- **The open is about 11 hours after a 10 am New York posting.** By then everyone has seen the news, so speed gives no advantage in Hong Kong or Shanghai.
+- **Where speed could matter:** Turkish banks in Istanbul, Standard Chartered and HSBC in London, and Russian banks in Moscow. All have about an hour of trading left after a 10 am posting.
+- **Not measured:** minute-by-minute moves. Free price data only keeps minute data for the last 30 days, and no listed company we track was hit in that window.
+- **Caution:** large funds already watch these feeds, so any lead may last seconds, not minutes. We haven't measured it.
 
 ## Europe
 
@@ -372,5 +418,6 @@ Every table behind this page is in [data/](https://github.com/pvijeh/iran-oil-te
 - **Tanker histories and drone parts:** [Ukraine GUR](https://war-sanctions.gur.gov.ua/en/transport/ships).
 - **Share prices:** Yahoo Finance daily closes; method in `scripts/price_impact.py`.
 - **EU trade:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/) DS-045409.
+- **Announcement timing:** OFAC list update times in `data/ofac_list_publication_times.csv`; next-open moves in `data/next_open_reaction.csv` (from `scripts/announcement_timing.py`).
 - **Bank evidence:** saved copies of every source in [receipts/banks/](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/banks); bank list in `data/bank_leads.csv`; share moves in `data/bank_actions_price_impact.csv`.
 - **Company filings:** HKEX and [cninfo](http://www.cninfo.com.cn/), linked above.
