@@ -22,6 +22,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
 - **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
 - **Where to look:** the biggest falls came when a company's main business was cut off. We rank five areas to look for the next one: car-parts suppliers, electronics makers, tanker owners, banks, then part-owned oil terminals.
 - **Timing:** OFAC usually posts at about 10 am New York time, after Asian markets close, so Hong Kong and mainland shares take the whole hit at the next open. Only Istanbul, London, Moscow and New York are still trading when the news lands.
+- **Warning before the big falls:** in the six biggest falls, the evidence was usually public months or years ahead, but the shares fell only when the US acted. See the [case studies](case-studies/).
 - **Banks:** no listed non-Chinese bank has been cut off from the dollar over Iran yet. Charges and fines moved shares 2–13%, most of all when Halkbank's deputy CEO was arrested in 2017. US court records also name QNB Bank, Bank of Baroda, and units of Emirates NBD and Saudi National Bank as handling money in the Halkbank scheme.
 - **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. EU exports to Iran fell to €3.0bn in 2025, mostly medicine and machinery. We found no European listed company exposed to the 2026 sectors.
 - **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
@@ -158,6 +159,21 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 - **Where speed could matter:** Turkish banks in Istanbul, Standard Chartered and HSBC in London, and Russian banks in Moscow. All have about an hour of trading left after a 10 am posting.
 - **Not measured:** minute-by-minute moves. Free price data only keeps minute data for the last 30 days, and no listed company we track was hit in that window.
 - **Caution:** large funds already watch these feeds, so any lead may last seconds, not minutes. We haven't measured it.
+
+## Was there warning before the biggest falls?
+
+**Short answer: usually yes, in the press or in earlier US actions, but almost never in the company's own filings. The shares didn't fall until the US acted.** In five of the six cases below the shares were flat or up in the last 20 trading days before the action. The exception is ZTE in 2018 (−7%).
+
+**Each case has its own page with the sources and a price chart** ([all case studies](case-studies/)):
+
+- **[ZTE, 2016](case-studies/zte-2016.html):** Reuters reported ZTE's Iran surveillance sale in 2012, four years before the US export ban. 20 days before: +0.4%. 5 days after: −20%.
+- **[ZTE, 2018](case-studies/zte-2018.html):** the 2017 settlement spelled out a suspended export ban. What triggered it (false statements to the US) wasn't public. 20 days before: −7%. 1 day after: −43%.
+- **[COSCO Shipping Energy, 2019](case-studies/cosco-shipping-energy-2019.html):** two months earlier the US sanctioned another Chinese company for buying Iranian oil. Nothing public named COSCO. 20 days before: −2%. 5 days after: −26%.
+- **[Hengli Petrochemical, 2026](case-studies/hengli-2026.html):** the US had sanctioned four Chinese oil terminals in 2025. We found nothing naming Hengli before the action. 20 days before: +6%. 20 days after: −25%.
+- **[Halkbank, 2017](case-studies/halkbank-2017.html):** Turkish police detained its general manager in 2013, and the US arrested Reza Zarrab in 2016. 20 days before: +4%. 1 day after: −13%.
+- **[Standard Chartered, 2012](case-studies/standard-chartered-2012.html):** the bank had been investigating its Iran payments since 2009. We haven't confirmed whether it said so publicly. 20 days before: 0%. 1 day after: −17%.
+
+**What this means:** a short based on public evidence pays only if the US acts while you hold it. In these cases the wait after the first public warning was up to four years.
 
 ## Europe
 
@@ -419,5 +435,6 @@ Every table behind this page is in [data/](https://github.com/pvijeh/iran-oil-te
 - **Share prices:** Yahoo Finance daily closes; method in `scripts/price_impact.py`.
 - **EU trade:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/) DS-045409.
 - **Announcement timing:** OFAC list update times in `data/ofac_list_publication_times.csv`; next-open moves in `data/next_open_reaction.csv` (from `scripts/announcement_timing.py`).
+- **Case studies:** price paths in `data/case_study_price_paths.csv` and `data/case_study_summary.csv` (from `scripts/case_studies.py`); sources in `receipts/case-studies/`.
 - **Bank evidence:** saved copies of every source in [receipts/banks/](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/banks); bank list in `data/bank_leads.csv`; share moves in `data/bank_actions_price_impact.csv`.
 - **Company filings:** HKEX and [cninfo](http://www.cninfo.com.cn/), linked above.

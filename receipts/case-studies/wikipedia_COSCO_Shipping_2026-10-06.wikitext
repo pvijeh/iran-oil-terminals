@@ -1,0 +1,165 @@
+{{Short description|Chinese shipping and logistics services supplier}}
+{{Infobox company
+| name = China COSCO SHIPPING Corporation Limited
+| logo = COSCOCS-ver1.svg
+| logo_size = 150px
+| logo_alt = 
+| logo_caption = 
+| logo_padding = 
+| image = China COSCO Shipping Corporation Limited.jpg
+| image_size = 
+| image_alt = 
+| image_caption = COSCO SHIPPING Headquarters (Beijing)
+| native_name = 中国远洋海运集团有限公司
+| native_name_lang = zh
+| former_name = 
+| type = [[State-owned enterprise]]
+| industry = [[Marine transportation]]
+| founded = {{start date and age|2016|}}<!-- if known: {{start date and age|YYYY|MM|DD}} in [[city]], [[state]], [[country]] -->
+| founder = <!-- or: | founders = -->
+| hq_location = 
+| hq_location_city = [[Shanghai]]
+| hq_location_country = China
+| area_served = Worldwide <!-- or: | areas_served = -->
+| key_people = {{ubl
+|Wan Min (Chairman/[[Chinese Communist Party Committee Secretary|CCP Committee Secretary]])<ref>{{Cite web |last=Si |first=Katherine |date=November 2, 2021 |title=Cosco Shipping appoints Wan Min as new chairman |url=https://www.seatrade-maritime.com/containers/cosco-shipping-appoints-wan-min-as-new-chairman |access-date=2025-02-01 |website=www.seatrade-maritime.com |publisher=[[Seatrade Communications]] |language=en}}</ref>
+|Zajian Wong (COO)
+|Meifeng Chen (CFO)
+}}
+| products = 
+| brands = 
+| revenue = $44,655 million (2020) <ref name=Global500>{{Cite web |url=https://fortune.com/company/china-cosco-shipping/global500/ |title=China Cosco Shipping ranking under Global 500 |work=Fortune}}</ref>
+| operating_income = 
+| net_income = 
+| assets = $125,906.4 million (2020) <ref name=Global500 />
+| equity = $28,202.6 million (2020) <ref name=Global500 />
+| num_employees = 118,243 (2020) <ref name=Global500 />
+| subsidiaries = {{ubl|[[COSCO SHIPPING Lines]]|[[COSCO Shipping Development|COSCO SHIPPING Development]]|[[COSCO SHIPPING Specialized Carriers]]|[[COSCO Shipping Energy|COSCO SHIPPING Energy]]|[[COSCO SHIPPING International]]|[[COSCO Shipping Ports|COSCO SHIPPING Ports]]|[[COSCO SHIPPING Technology]]|[[China Shipping Group]]|[[Orient Overseas (International)|Orient Overseas]]|[[OOCL]]}}
+| predecessor = {{ubl|COSCO Group| China Shipping Group}}
+| services = [[Marine transportation]] <br /> [[Container port|Stevedoring]] <br />[[Chartering (shipping)|Chartering]] <br /> [[Shipbuilding]]
+| owner = <!-- or: | owners = -->
+| website = {{Official URL}}
+}}
+
+[[File:Cosco Shengshi (ship, 2011), Sète 02.jpg|thumb|right|''COSCO SHIPPING Shengshi'', a vehicles carrier ship, [[Sète]], 2018]]
+'''China COSCO Shipping Corporation Limited''' (branded as '''COSCO Shipping''') is a Chinese state-owned [[Multinational corporation|multinational]] [[marine transportation]] service [[Conglomerate (company)|conglomerate]], headquartered in [[Shanghai]].<ref name="coscoshipping.com">{{cite web|url=https://en.coscoshipping.com/col/col6916/index.html|title=COSCO Shipping Business Sectors|author=|date=|publisher=|accessdate=22 May 2020}}</ref> It was established in 2016 by the merger between [[COSCO|China Ocean Shipping Company]] and [[China Shipping Group|China Shipping Group Company]].<ref>{{Cite book |last=Borst |first=Nicholas |title=The Bird and the Cage: China's Economic Contradictions |date=2025 |publisher=[[Palgrave Macmillan]] |isbn=978-981-96-3996-0 |location=Singapore}}</ref>{{Reference page|pages=192-193}} It is owned by the [[State Council of China]] and supervised by the [[State-owned Assets Supervision and Administration Commission of the State Council]].
+
+==Predecessors==
+
+===COSCO===
+{{main|COSCO}}
+China Ocean Shipping (Group) Company, founded in 1961 and headquartered in [[Beijing]], was a Chinese state-owned multinational transportation conglomerate. It was the largest dry bulk carrier in China and one of the largest dry bulk shipping operators worldwide. The Group is the largest liner carrier in China.<ref>{{Cite web|title=China Ocean Shipping (Group) Company Company Profile|url=https://finance.yahoo.com/|access-date=2021-04-03|website=finance.yahoo.com|language=en-US}}</ref> Its container shipping subsidiary – [[COSCO Shipping Lines#COSCO Container Lines|COSCO Container Lines]] – was one of the world's top 10 container carriers in terms of fleet capacity. COSCO was among China's top 15 brands in 2012.<ref name=JSTOR>{{Cite journal|last=Dooley|first=Howard J.|jstor=23257908|title=The Great Leap Outward: China's Maritime Renaissance|journal=The Journal of East Asian Affairs|publisher=Institute for National Security Strategy|volume=26|issue=1|page=57|date=Spring–Summer 2012}}</ref>
+
+===China Shipping===
+{{main|China Shipping Group}}
+
+China Shipping (Group) Company was founded in 1997 and was headquartered in Shanghai. The group was a Chinese state-owned multinational transportation conglomerate. By May 2014, China Shipping's container shipping subsidiary – [[China Shipping Container Lines]] – operated 156 container vessels with 656,000 [[Twenty-foot equivalent unit|TEU]] capacity.<ref>{{cite web|url=http://www.chinashippingna.com/|title=China Shipping: About Us|first=|last=|date=|publisher=|accessdate=22 May 2020}}</ref>  China Shipping Container Lines' container ship ''[[CSCL Globe]]'' was the world largest in 2014.<ref name=DT>{{cite news|title=A quarter of a mile long and arriving here now - the world's biggest ship docks in Britain|last1=Tovey|first1=Alan|newspaper=[[The Daily Telegraph]]|date=7 January 2015|accessdate=16 January 2015|url=https://www.telegraph.co.uk/finance/newsbysector/transport/11330899/A-quarter-of-a-mile-long-and-arriving-here-now-the-worlds-biggest-ship-docks-in-Britain.html}}</ref>  China Shipping's other subsidiaries operated [[oil tanker]]s, tramps, passenger ships, and [[Roll-on/roll-off|car carriers]].
+
+==History==
+In January 2016, the [[State Council of the People's Republic of China|Chinese State Council]] approved the merger of COSCO and China Shipping, forming COSCO Shipping.<ref name="coscoshipping.com1">{{cite web |author= |date= |title=China COSCO Shipping History |url=https://en.coscoshipping.com/col/col6922/index.html |accessdate=22 May 2020 |publisher=}}</ref> The merger – which occurred during a downturn in the marine transportation industry – sought to achieve [[economies of scale]].<ref>{{cite web |url=https://de.reuters.com/article/us-china-shipping-cosco-idUSKCN0VR0AK |title=China launches new shipping giant to battle downturn |last=Goh |first=Brenda |date=February 17, 2016 |website=[[Reuters]] |publisher= |access-date=December 14, 2020 |quote=}}{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref><ref>{{cite web|url=https://www.freightwaves.com/news/merged-china-cosco-shipping-corporation-limited-launched|title=Merged China COSCO Shipping Corporation Limited launched|first=Chris|last=Dupin|date=18 February 2016|publisher=|accessdate=22 May 2020}}</ref><ref>New Chinese Shipping Giant ''[[Ships Monthly]]'' May 2016 page 8</ref> The merger was also part of a Chinese government strategy to restructure its state-owned shipping sector.<ref>{{cite web|url=https://www.joc.com/maritime-news/china-committed-reforming-its-state-dominated-shipping-sector_20150616.html|title=China committed to reforming its state-dominated shipping sector|first=Greg|last=Knowler|date=16 June 2015|publisher=[[Journal of Commerce]]|accessdate=22 May 2020}}</ref>
+
+Shortly after, subsidiary [[COSCO Shipping Holdings]] partnered with [[Shanghai International Port Group]] to acquire the majority stake of [[Orient Overseas]] from [[Tung Chee-hwa]]-[[Tung Chee-chen|Chee-chen]] families.<ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/103601/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%AE%B6%E6%97%8F%E6%97%97%E4%B8%8B%E6%9D%B1%E6%96%B9%E6%B5%B7%E5%A4%96%E8%B3%A3%E7%9B%A4-%E4%B8%AD%E9%81%A0%E6%B5%B7%E9%81%8B%E6%96%A5492%E5%84%84%E6%94%B6%E8%B3%BC|script-title=zh:董建華家族旗下東方海外賣盤 中遠海運斥492億收購|date=9 July 2017|accessdate=14 December 2020|work=HK01|language=zh-hk}}</ref><ref>{{cite news|url=https://orientaldaily.on.cc/cnt/news/20170710/00174_001.html|script-title=zh:回歸20年 東方海外售予中資 董建華492億賣家業|date=10 July 2017|accessdate=14 December 2020|newspaper=Oriental Daily|language=zh-hk}}</ref> The deal was completed in August 2018. Orient Overseas (International) is the parent company of [[OOCL]]. This will make it one of the world's largest container shipping company with a fleet of over 400 vessels.<ref>{{cite news|title=China shipping firm Cosco to buy HK rival OOIL for $6.3bn|work=[[BBC News]]|date=10 July 2017 |url=https://www.bbc.co.uk/news/40552293|accessdate=10 July 2017}}</ref>
+ 
+In April 2016 the company agreed to buy 51% of [[Piraeus Port Authority]],<ref name=HSN>{{cite web|
+date=11 April 2016|
+publisher=Hellenic Shipping News|
+title=Greek president hopes for more investments following Piraeus Port Authority deal|
+access-date=13 April 2016|
+url=http://www.hellenicshippingnews.com/greek-president-hopes-for-more-investments-following-piraeus-port-authority-deal/|
+archive-url=https://web.archive.org/web/20160426151831/http://www.hellenicshippingnews.com/greek-president-hopes-for-more-investments-following-piraeus-port-authority-deal/|
+archive-date=26 April 2016|
+url-status=dead}}</ref> which is listed on the [[Athens Stock Exchange]] ({{Athex|PPA}}) and is a constituent of the [[FTSE/Athex Large Cap]] index. Its subsidiary ''Piraeus Container Terminal'' (''PCT'') has been operating two Piers at Piraeus Port since 2009.<ref name=HSN/>
+
+In January 2017, the company was awarded $26.1 billion by the [[China Development Bank]] to participate in the [[Belt and Road Initiative]]. The funding would run through 2021. COSCO has used the finances to invest in its ports and infrastructure projects.<ref>{{cite web |url=https://www.joc.com/international-trade-news/infrastructure-news/china-cosco-gets-26b-belt-and-road-initiatives_20170113.html |title=China Cosco gets $26B for Belt and Road initiatives |last=Braden |first=Dustin |date=January 13, 2017 |website=[[JOC Group|JOC]] |publisher= |access-date=December 2, 2020 |quote=}}</ref> 
+[[File:Navire JIA HUI SHAN à quai.jpg|thumb|right|''Jia Hui Shan'', [[Port of Casablanca]]]]
+
+In May 2017, the company signed a deal with [[Kazakhstan Temir Zholy|Kazakhstan's national railway company]] to take 24% stake in an inland port in the Khorgos Eastern Gate Special Economic Zone.<ref>{{cite web |url=https://fr.reuters.com/article/uk-china-silkroad-cosco-idUKKCN18A0KF |title=China's COSCO to invest in Kazakhstan border project as part of Silk Road drive |last= |first= |date=May 14, 2017 |website=[[Reuters]] |publisher= |access-date=December 2, 2020 |quote=}}{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref> In December 2018, COSCO Shipping Ports secured a 35-year concession to operate and develop a newly built container terminal in [[Khalifa Port]].<ref>{{cite web |url=https://www.cnbc.com/2018/12/10/belt-and-road-abu-dhabi-ports-sees-huge-trade-boost-from-cosco-deal.html |title=China's Cosco and Abu Dhabi Ports develop Khalifa to support Belt and Road initiative |last=Gilchrist |first=Karen |date=December 9, 2018 |website=[[CNBC]] |publisher= |access-date=December 2, 2020 |quote=}}</ref> In November 2019, the company invested $660 million to upgrade the [[Port of Piraeus|Piraeus container port]], Greece's largest port.<ref>{{cite web |url=https://www.reuters.com/article/us-greece-china/china-greece-agree-to-push-ahead-with-coscos-piraeus-port-investment-idUSKBN1XL1KC |title=China, Greece agree to push ahead with COSCO's Piraeus Port investment |last= |first= |date=November 11, 2019 |website=[[Reuters]] |publisher= |access-date=December 2, 2020 |quote=}}</ref>
+
+In May 2020, [[COSCO Shipping Ports]], [[Dongfeng Motor Corporation|Dongfeng Commercial Vehicle]], and [[China Mobile]] successfully transported a [[Intermodal container|shipping container]] within [[Port of Xiamen|Xiamen Ocean Gate Terminal]] using an [[Automated guided vehicle|AGV]] guided by [[5G]]. The achievement demonstrated an application of 5G technology in developing a "smart port". At the event, the three companies announced a roadmap for large-scale implementation of 5G technology in ports.<ref>{{cite web |url=https://container-news.com/cosco-shipping-proceed-with-5g-smart-ports-vision/ |title=COSCO Shipping proceed with 5G smart ports vision |author=<!--Not stated--> |date=May 12, 2020 |website=Container News |publisher= |access-date=December 2, 2020 |quote=}}</ref><ref>{{cite web |url=https://www.worldcargonews.com/news/smart-port-enabled-by-5g--self-driving-technology-launched-in-xiamen-64298 |title="Smart Port Enabled by 5G + Self-driving Technology" launched in Xiamen |last=Avery |first=Paul |date=14 May 2020 |website=WorldCargo News |publisher= |access-date=December 2, 2020 |quote=}}</ref>
+
+In July 2020, the company entered into an agreement with Alibaba and its affiliate, Ant Group, to jointly promote cooperation on the application of a shipping blockchain.<ref>{{cite news |title=Cosco joins Alibaba to promote shipping blockchain |url=https://www.globalcargonews.com/cosco-joins-alibaba-to-promote-shipping-blockchain |accessdate=8 July 2020 |publisher=Global Cargo News |date=8 July 2020 |archive-date=18 August 2020 |archive-url=https://web.archive.org/web/20200818003136/https://www.globalcargonews.com/cosco-joins-alibaba-to-promote-shipping-blockchain |url-status=dead}}</ref>
+
+COSCO Shipping and its predecessor COSCO, has a Hong Kong division, COSCO Shipping (Hong Kong) Limited, a private company formerly known as COSCO (Hong Kong) Group Limited. This acquired listed company [[COSCO Shipping International]] (at that time, Shun Shing Holdings) as a vehicle of [[backdoor listing]] in 1997 and bought the real estate businesses, such as Shun Shing Construction and an office building, from COSCO Shipping International in the 2000s.{{clarify|date=December 2020}}<ref>{{cite news|url=https://hk.appledaily.com/finance/20050531/GFGMHFLRLN4QNMRQBYIFP35AAE/|script-title=zh:中遠國際14億售寫字樓|date=31 May 2005|accessdate=14 December 2020|newspaper=[[Apple Daily]]|location=Hong Kong|language=zh-hk|url-access=limited|archive-date=21 June 2021|archive-url=https://web.archive.org/web/20210621164548/https://hk.appledaily.com/finance/20050531/GFGMHFLRLN4QNMRQBYIFP35AAE/|url-status=dead}}</ref><ref>{{cite report|url=http://hk.coscoshipping.com/media/1139/ar-2007-final-english-25-4-2008.pdf|title=2007 Annual Report|date=2008|accessdate=14 December 2020|publisher=COSCO International|page=9|archive-date=14 March 2023|archive-url=https://web.archive.org/web/20230314225055/http://hk.coscoshipping.com/media/1139/ar-2007-final-english-25-4-2008.pdf|url-status=dead}}</ref>
+
+In 1997, COSCO (HK) Group purchased a 20% stake in Lai Sun Hotels.<ref>{{cite news|url=https://www.scmp.com/article/191926/cosco-eyes-china-hotels-management|title=Cosco eyes China hotels management|date=12 April 1997|accessdate=14 December 2020|newspaper=[[South China Morning Post]]|location=Hong Kong|url-access=limited}}</ref> After the [[1997 Asian financial crisis]], [[Lai Sun Development]], the parent company of Lai Sun Hotels, scrapped the IPO of Lai Sun Hotels and sold all the assets of Lai Sun Hotels instead.{{clarify|date=December 2020}} <ref>{{cite news|url=https://www.scmp.com/article/232831/lai-sun-scraps-float-sell-units-514m|title=Lai Sun scraps float to sell units for $514m|date=11 March 1998|accessdate=14 December 2020|newspaper=South China Morning Post|location=Hong Kong|url-access=limited}}</ref>
+
+In 2023, Three Stars Ltd, the Bulgarian agent of COSCO Shipping Lines, was accused in the local media of racketeering and violating antitrust laws.<ref>{{cite news|url=https://www.iustitia.bg/cosco-shipping-lines-three-stars-ltd-racketeering|title=COSCO Shipping Lines and Three Stars Ltd racketeering exporters in Europe|date=11 November 2023|accessdate=30 November 2023|newspaper=Iustitia.bg|location=Bulgaria|url-access=limited}}</ref>
+
+The company was a shareholder in the Chinese real estate developer, [[Sino-Ocean Group]]. The stake was sold in 2010.<ref>{{cite news|url=https://hk.appledaily.com/finance/20100817/4DIFXFZ5K636HNIKJ7BSM5U7GI/|script-title=zh:中遠國際將悉售遠地 擬1年內執行 料獲利6.6億|date=17 August 2010|accessdate=14 December 2020|newspaper=[[Apple Daily]]|location=Hong Kong|language=zh-hk|url-access=limited|archive-date=21 June 2021|archive-url=https://web.archive.org/web/20210621191402/https://hk.appledaily.com/finance/20100817/4DIFXFZ5K636HNIKJ7BSM5U7GI/|url-status=dead}}</ref> It was reported that the [[SASAC]] of the [[State Council of the People's Republic of China|State Council]] has ordered Government owned companies to sell real estate development unit if it is not their main businesses.<ref>{{cite news|url=https://www.yicai.com/news/392154.html|script-title=zh:中远明确退出房地产业务时间表|date=17 August 2010|accessdate=14 December 2020|website=[[Yicai Media Group]]|language=zh-cn|title=}}</ref>
+
+=== U.S. sanctions ===
+{{Further|United States sanctions against China}}
+
+In September 2019, the [[United States Department of the Treasury]] sanctioned the tanker subsidiary of COSCO Shipping, COSCO Shipping Tanker (Dalian) Seaman & Ship Management, and COSCO Shipping Tanker (Dalian), for breaching the [[United States sanctions against Iran]]. However, the parent company of the aforementioned companies were not sanctioned.<ref>{{cite press release |title=The United States Imposes Sanctions on Chinese Companies for Transporting Iranian Oil |date=September 25, 2019 |publisher= |location= |url=https://translations.state.gov/2019/09/25/the-united-states-imposes-sanctions-on-chinese-companies-for-transporting-iranian-oil/ |last=Pompeo |first=Michael |access-date=2020-12-02 |agency=[[United States Department of State]]}}</ref> The US lifted the sanctions against COSCO Shipping in January 2020.<ref>{{cite web |last=Gillis |first=Chris |date=January 31, 2020 |title=US lifts sanctions against COSCO's tanker operation |url=https://www.freightwaves.com/news/us-lifts-sanctions-against-coscos-tanker-operation |access-date=December 2, 2020 |website=American Shipper |publisher= |quote=}}</ref>
+
+In January 2025, COSCO was added to a [[United States Department of Defense]] list of companies that allegedly work with the [[People's Liberation Army]].<ref>{{Cite web |last=Areddy |first=James T. |date=January 6, 2025 |title=Pentagon Labels More Chinese Companies as Military in Nature |url=https://www.wsj.com/politics/national-security/pentagon-labels-more-chinese-companies-as-military-in-nature-bac351b5 |url-access=subscription |access-date=2025-01-08 |website=[[Wall Street Journal]] |language=en-US}}</ref> In August 2026, the United States accused COSCO of using concealed equipment to spy on military communications near the coastlines of target nations.<ref>{{Cite news |last=Martina |first=Michael |date=September 1, 2026 |title=Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say |url=https://www.reuters.com/world/china/chinese-shipper-cosco-collects-intel-beijing-with-concealed-equipment-us-2026-09-01/ |access-date=September 1, 2026 |work=[[Reuters]]}}</ref><ref>{{Cite web |last=Trevithick |first=Joseph |date=2026-09-01 |title=Chinese Cargo Ships Clandestinely Gather Signals Intelligence: Report |url=https://www.twz.com/news-features/chinese-cargo-ships-clandestinely-gather-signals-intelligence-report |access-date=2026-09-02 |website=[[The War Zone]] |language=en-US}}</ref>
+
+==COSCO Shipping Holdings==
+{{Infobox company
+| name = COSCO Shipping Holdings Co., Ltd.
+| logo = 
+| type = [[Public company]]
+| traded_as = {{hkse|1919}}<br>{{SSE|601919}}<br>[[CSI A100 Index|CSI A100]]
+| former_name = China COSCO Holdings Company Limited
+| founded = 2005
+| founder = 
+| hq_location = {{aligned table|Shanghai, China|(''de facto'')|Tianjin, China|(registered office)}}
+| origins = 
+| key_people = Legal Representative and [[Chairman]]: Mr. Ma Zehua (马泽华)
+| area_served = [[People's Republic of China]]
+| industry = [[Shipping]] and [[Logistics]]
+| products = 
+| services = [[Containerization|Container]] shipping, [[Dry bulk]] shipping, [[Third party logistics]], [[Freight forwarding]], [[Port|Terminal]] and container [[leasing]]
+| revenue = 
+| operating_income = 
+| net_income = 
+| num_employees = 
+| parent = COSCO Shipping (via [[COSCO Group]])
+| divisions = 
+| subsidiaries = [[COSCO Pacific]] <br/> [[COSCO Shipping Lines]]
+| owner = COSCO Shipping
+| website = {{URL|http://en.hold.coscoshipping.com}}
+}}
+
+'''COSCO Shipping Holdings Co., Ltd.''', formerly '''China COSCO Holdings Company Limited''' was established in the [[People's Republic of China]] in 2005. It is the [[listed company|listed]] [[flagship]] and a [[subsidiary]] of [[China Ocean Shipping (Group) Company]] ("COSCO Group"), the largest integrated [[shipping]] company in China.
+
+China COSCO Holdings provides a wide range of [[Containerization|container]] [[shipping]], [[dry bulk]] shipping, [[third party logistics]], [[freight forwarding]], [[Port|Terminal]] and container [[leasing]] [[Domestic market|domestically]] and internationally. It is [[headquartered]] in [[Shanghai]].<ref>{{Cite web |url=http://www.chinacosco.com//ChinaCosco/articleList.do?method=viewCatalog&catalogId=2c91c2c40d0a8ca9010d0a912cf70005&orderby=createdate&sort=desc&showListId=2c91c2c40d0a8ca9010d0a912cf70005&secondCatalogId=null |title=Corporate Profile of China COSCO |access-date=2008-03-29 |archive-url=https://web.archive.org/web/20080502162855/http://www.chinacosco.com/ChinaCosco/articleList.do?method=viewCatalog&catalogId=2c91c2c40d0a8ca9010d0a912cf70005&orderby=createdate&sort=desc&showListId=2c91c2c40d0a8ca9010d0a912cf70005&secondCatalogId=null |archive-date=2008-05-02 |url-status=dead }}</ref>
+
+===History===
+In June 2005, its [[H shares]] were listed on the [[Hong Kong Stock Exchange]]. In June 2007, its [[A-share (mainland China)|A shares]] were listed on the [[Shanghai Stock Exchange]].<ref>{{Cite web |url=http://en.cosco.com/col/col768/index.html |title=COSCO Group Listed Companies |access-date=2022-01-01 |archive-date=2015-02-17 |archive-url=https://web.archive.org/web/20150217013303/http://en.cosco.com/col/col768/index.html |url-status=dead }}</ref>
+
+China COSCO recorded a loss for financial years 2011 and 2012 and could face a delisting from the Shanghai Stock Exchange if it made a loss for the third consecutive year. In March 2013, China COSCO recorded a profit of RMB 235.47 million for the 2013 financial year and avoided the possible delisting.<ref>{{Cite news |url=https://www.reuters.com/article/chinacosco-earnings-idUSL4N0MN14M20140327 |title=China COSCO returns to profit, avoids delisting risk &#124; Reuters |website=[[Reuters]] |date=27 March 2014 |access-date=2017-06-30 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924195214/http://www.reuters.com/article/2014/03/27/chinacosco-earnings-idUSL4N0MN14M20140327 |url-status=live }}</ref>
+
+===Reorganization and asset restructuring===
+In December 2015, [[COSCO|COSCO Group]] underwent a major reorganisation with [[China Shipping Group]] to form the new China COSCO Shipping Corporation Limited.
+
+As part of the reorganization, China COSCO sold 100% of equity interest in China COSCO Bulk Shipping (Group) Co., Ltd. to [[COSCO|COSCO Group]], representing the disposal of its dry bulk shipping business. After the reorganization, China COSCO focused on the container shipping business.
+
+China COSCO bought a certain amount of equity interest of 30 onshore agency companies from [[China Shipping Container Lines]] ("CSCL") and its subsidiary. China COSCO entered into a lease agreement with CSCL, to lease the vessels and containers owned or operated by CSCL. After the transaction and agreement, China COSCO acquired the container services-related assets previously owned by CSCL, and became one of the world's leading container shipping and terminal service providers.<ref name="hkexnews1">{{cite web|url=https://www.hkexnews.hk/listedco/listconews/SEHK/2015/1230/LTN20151230558.pdf |title=Major and Connected Transactions |website=Hkexnews.hk |accessdate=2016-04-30}}</ref>
+
+==See also==
+* [[Largest container shipping companies]]
+* [[COSCO fleet lists]]
+* [[COSCO Group]]
+* [[COSCO (Hong Kong) Group]]
+* [[COSCO Shipping Ports]]
+* [[COSCO Shipping International]]
+* [[China International Marine Containers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website}}
+
+{{Shipping companies of China}}
+{{SSE 50 companies}}
+{{authority control}}
+
+[[Category:COSCO Shipping| ]]
+[[Category:Companies based in Shanghai]]
+[[Category:Transport companies established in 2016]]
+[[Category:Companies owned by the central government of China]]
+[[Category:Chinese brands]]
+[[Category:Multinational companies headquartered in China]]
+[[Category:Companies in the CSI 100 Index]]
