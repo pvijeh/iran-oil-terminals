@@ -2,6 +2,8 @@
 title: Which listed companies could be hit next by US sanctions on Iran
 ---
 
+# Which listed companies could be hit next by US sanctions on Iran
+
 ## Executive summary
 
 - **What this is:** a check, using only public data, of which stock-market-listed companies, mainly in Hong Kong, mainland China and Taiwan, do business that the US now sanctions as helping Iran.
