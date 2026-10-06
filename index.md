@@ -26,7 +26,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
 **Two kinds of rule**
 
 - **US companies:** the Iranian Transactions and Sanctions Regulations ban US companies, and foreign companies they own or control, from selling to Iran or dealing in Iranian goods ([31 CFR 560.204, 560.206, 560.215](https://www.ecfr.gov/current/title-31/subtitle-B/chapter-V/part-560)). Breaking them brings a fine.
-- **Everyone else:** "secondary sanctions" let the US cut a foreign company off from US banks and the dollar for doing business with listed parts of Iran's economy, even with no US link. The main order is [Executive Order 13902](https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions) of 2020, which lets Treasury add Iranian sectors one at a time. Before 2026 it was used mostly against oil, petrochemicals and metals.
+- **Everyone else:** "secondary sanctions" let the US cut a foreign company off from US banks and the dollar for doing business with listed parts of Iran's economy, even with no US link. The main order is [Executive Order 13902](https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions) of 2020, which lets Treasury add Iranian sectors one at a time. Before 2026 its named sectors were construction, mining, manufacturing, textiles, finance, metals, oil and petrochemicals.
 
 **What 2026 added**
 
@@ -34,7 +34,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
 - **Five new sectors (August 24):** Treasury's "Operation Economic Outcast" added crypto, technology, gold, aviation and shipping ([press release](https://home.treasury.gov/news/press-releases/sb0613)).
 - **Cars and rail (October 1):** Treasury added both sectors. It sanctioned Iran Khodro and SAIPA, which it says hold over 90% of Iran's car market, and five foreign parts suppliers in Indonesia, the UAE, Turkey and Hong Kong ([press release](https://home.treasury.gov/news/press-releases/sb0643)).
 
-**What that means for a foreign company:** selling to any of these Iranian sectors can now get it sanctioned, with no US connection needed. Before October, selling parts to Iran's carmakers was not a sanctions target.
+**What that means for a foreign company:** selling to any of these Iranian sectors can now get it sanctioned, with no US connection needed. Iran Khodro and SAIPA are now on the sanctions list themselves, so any sale to them is exposed.
 
 ## Who has been punished so far
 
