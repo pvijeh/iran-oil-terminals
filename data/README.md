@@ -15,3 +15,7 @@ Not included: the 220,000 individual Global Fishing Watch port visits. Its licen
 ## ofac_enforcement_iran.csv
 
 OFAC civil penalties and settlements, 2018 to 2025, whose enforcement notice mentions Iran. `mentions_itsr` is true when the notice cites the Iranian Transactions and Sanctions Regulations (56 of the 60 rows). Source: https://ofac.treasury.gov/civil-penalties-and-enforcement-information (US government work, public domain).
+
+## iran_enforcement_price_impact.csv
+
+US Iran-related fines, export bans, sanctions and indictments against listed companies or their subsidiaries, 2009 to 2026, with the share price change after each one minus the local index change: first trading day, 5 and 20 trading days. Asian stocks are measured from that day's close, because US announcements come after Asian markets close. Days with no trading (halts) are skipped. The events are in `price_impact_events.csv`. Credit Suisse and SCG have no price data. Prices: Yahoo Finance. Built with `scripts/price_impact.py`.

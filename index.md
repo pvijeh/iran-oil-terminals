@@ -10,7 +10,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
 - **Why it matters:** in 2026 the US widened its Iran sanctions from oil to cars, rail, shipping, aviation, technology, gold and crypto. A foreign company caught in one of these sectors can be cut off from US banks and the dollar. If it is listed, its profit and share price take the hit.
 - **Where we looked:**
   - The US Iran regulations, executive orders and Treasury press releases.
-  - Every US Treasury sanctions fine published from 2018 to 2025.
+  - Every US Treasury sanctions fine published from 2018 to 2025, and share prices around 50 US actions since 2009.
   - US sanctions lists (OFAC, OpenSanctions), matched to listed owners through Hong Kong and mainland Chinese company filings.
   - 220,000 port visits by 669 sanctioned ships, from Global Fishing Watch.
   - Ukraine's database of parts found in Iranian drones, and Iran's largest online shop, Digikala.
@@ -19,6 +19,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
   - **Likely next, car suppliers:** since 2026-10-01 any company selling to Iran's two big carmakers can be sanctioned. Linglong Tyre (SSE 601966) named Iran Khodro as a customer as recently as 2024, and Anpeilong (SZSE 301413) named an Iranian supplier to both carmakers in 2023.
   - **Likely next, banks:** the US cut off banks in the UAE, Turkey and Russia in August and September 2026 for moving money for Iran.
   - **Oil terminals:** free ship tracking can't show which terminal is next, because sanctioned tankers stop showing up at Chinese piers once sanctioned. The one exception is seven sanctioned gas carriers docking openly at Chaozhou, in southern China.
+- **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
 - **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
 
 **What "sanctioned" means here:** listed by the US Treasury's Office of Foreign Assets Control (OFAC) under its Iran programs. These are US measures; buying from Iran is not illegal under Chinese law. This page is research, not investment advice.
@@ -70,6 +71,33 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
   - On 2025-12-12 it cancelled a RMB 1.79bn purchase of half of Rizhao Shihua, citing the US listing ([announcement](http://static.cninfo.com.cn/finalpage/2025-12-12/1224871861.PDF)).
 - **Smaller or mainland-only:** PetroChina (HKEX 00857) owns about 21% of the sanctioned Yangshan Shengang depot in Shanghai. Wintime Energy (SSE 600157) owns 80% of the sanctioned Huaying Huizhou terminal. Hengli Petrochemical (SSE 600346) owns the sanctioned Hengli Dalian refinery. The filing behind each link is in [listed_company_links.csv](data/listed_company_links.csv).
 
+## What a US action does to the share price
+
+**Short answer: fines barely move the stock. Being cut off moves it a lot, and that includes mainland-only shares.**
+
+- **How we checked:** for 50 US actions against listed companies or their subsidiaries since 2009, we took the share price change after the announcement, minus the change in the local stock index. Prices are from Yahoo Finance. The full table is in [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv).
+
+**Company or its main business cut off: large falls**
+
+- **ZTE (HKEX 00763 / SZSE 000063), April 2018:** the US banned exports to it for breaking its Iran plea deal. Trading was halted for two months. On reopening, the Hong Kong shares fell 41% in one day. The Shenzhen shares fell 62% over 20 trading days.
+- **COSCO Shipping Energy (HKEX 01138 / SSE 600026), September 2019:** two tanker subsidiaries were sanctioned. The Hong Kong shares fell 27% in five days. The Shanghai shares fell 20% over 20 trading days.
+- **Hengli Petrochemical (SSE 600346, mainland only), April 2026:** its Dalian refinery was sanctioned. The shares fell 10% the next day, the daily limit, and 25% over 20 trading days.
+- **ZTE, March 2016:** first US export ban. The shares fell 10% on the first day.
+
+**Part-owned terminal sanctioned: small falls**
+
+- Sinopec Kantons (−4% over five days), Qingdao Port (0% in Hong Kong, −6% in Shanghai), PetroChina (−2%), Shanghai International Port (−3%), Zhangjiagang Freetrade (−8%) and Wintime (−1%).
+
+**Fines: no lasting effect**
+
+- **No effect:** 29 of 34 fines moved the shares less than 5% either way over five days. Only two fell further: Standard Chartered in 2012 and Yantai Jereh (−6%) in 2018. That includes BNP Paribas's $964M in 2014 and UniCredit's $611M in 2019.
+- **The exception:** Standard Chartered fell 22% in two days in August 2012. A New York regulator accused it of hiding Iran payments and threatened to take away its licence to operate in New York.
+
+**What this means for the list below**
+
+- **A short needs the company cut off,** not just fined or holding a minority stake in a sanctioned site.
+- **Mainland-only shares do fall,** as Hengli and ZTE's Shenzhen shares show. But foreign funds have little ability to short them. Hong Kong-listed names are the practical shorts.
+
 ## Who is likely to be punished next
 
 **Our view, based on what Treasury has done and said since April 2026. These are leads, not findings.**
@@ -82,6 +110,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 - **Older filings naming Iran Khodro:** Hengshuai (SZSE 300969, 2021), Ruihu Mould (SZSE 002997, 2020), Haima Automobile (SZSE 000572, 2019) and Foton Motor (SSE 600166, 2018).
 - **Related:** Norinco International (SZSE 000065) lists a wholly owned clean-energy company in Tehran in its [2025 annual report](http://static.cninfo.com.cn/finalpage/2026-03-31/1225061092.PDF). It is not a car business.
 - **Not checked:** whether any of these still sells to Iran.
+- **Hard to short:** all of these are listed only in mainland China.
 
 **2. Banks that move money for Iran**
 
@@ -158,7 +187,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 ## Our view
 
-The October 1 car-sector rule is the most likely source of the next sanctioned listed company. Mainland Chinese parts and tyre makers have named Iranian carmakers as customers in their own filings, and Treasury said it is going after foreign suppliers. The oil-terminal question needs a paid tracker or satellite images. The car-sector question needs only current filings and customs records, so it is the cheaper one to answer first.
+The October 1 car-sector rule is the most likely source of the next sanctioned listed company. Mainland Chinese parts and tyre makers have named Iranian carmakers as customers in their own filings, and Treasury said it is going after foreign suppliers. The oil-terminal question needs a paid tracker or satellite images. The car-sector question needs only current filings and customs records, so it is the cheaper one to answer first. The catch: the car-parts names we found are listed only in mainland China, so they are hard for a foreign fund to short. A Hong Kong-listed supplier to Iran's carmakers would be the stronger find.
 
 ## Data
 
@@ -169,4 +198,5 @@ Every table behind this page is in [data/](https://github.com/pvijeh/iran-oil-te
 - **Sanctions lists:** [OFAC recent actions](https://ofac.treasury.gov/recent-actions) and [OpenSanctions](https://www.opensanctions.org/).
 - **Port visits:** [Global Fishing Watch](https://globalfishingwatch.org/), under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (non-commercial use only).
 - **Tanker histories and drone parts:** [Ukraine GUR](https://war-sanctions.gur.gov.ua/en/transport/ships).
+- **Share prices:** Yahoo Finance daily closes; method in `scripts/price_impact.py`.
 - **Company filings:** HKEX and [cninfo](http://www.cninfo.com.cn/), linked above.
