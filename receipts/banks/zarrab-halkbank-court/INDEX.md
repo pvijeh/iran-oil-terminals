@@ -22,3 +22,4 @@ One line per file: file | URL | retrieved | what it shows. Court PDFs are page e
 - mktcap_stockanalysis_lon_STAN_2026-10-06.pdf | https://stockanalysis.com/quote/lon/STAN/ | retrieved 2026-10-06 | Quote page with market cap for lon/STAN
 - mktcap_stockanalysis_nse_BANKBARODA_2026-10-06.pdf | https://stockanalysis.com/quote/nse/BANKBARODA/ | retrieved 2026-10-06 | Quote page with market cap for nse/BANKBARODA
 - mktcap_stockanalysis_tadawul_1180_2026-10-06.pdf | https://stockanalysis.com/quote/tadawul/1180/ | retrieved 2026-10-06 | Quote page with market cap for tadawul/1180
+- mktcap_stockanalysis_ist_GARAN_2026-10-06.pdf | https://stockanalysis.com/quote/ist/GARAN/ | retrieved 2026-10-06 | Quote page with market cap for ist/GARAN
