@@ -20,6 +20,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
   - **Likely next, banks:** the US cut off banks in the UAE, Turkey and Russia in August and September 2026 for moving money for Iran.
   - **Oil terminals:** free ship tracking can't show which terminal is next, because sanctioned tankers stop showing up at Chinese piers once sanctioned. The one exception is seven sanctioned gas carriers docking openly at Chaozhou, in southern China.
 - **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
+- **Where to look:** the biggest falls came when a company's main business was cut off. We rank five areas to look for the next one: car-parts suppliers, electronics makers, tanker owners, banks, then part-owned oil terminals.
 - **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. EU exports to Iran fell to €3.0bn in 2025, mostly medicine and machinery. We found no European listed company exposed to the 2026 sectors.
 - **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
 
@@ -153,6 +154,25 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 - **What it means:** the sectors the US added in 2026 (cars, aviation, rail) add up to less than 1% of what the EU officially sells Iran. A European company exposed through them would most likely be selling through a third country such as the UAE or Turkey. EU trade figures can't show that.
 
 **Not checked:** European car-parts and aviation suppliers selling to Iran through the UAE or Turkey. Iranian trade-fair exhibitor lists and Digikala listings could show this.
+
+## Where to look for a case that would move a share price
+
+**Short answer: look for a company whose main business would be cut off, not one with a small stake in a sanctioned terminal.**
+
+**What separates a big fall from a small one** (from the share-price table above)
+
+- **The sanctioned business is most of the company.** COSCO Shipping Energy's own tankers (−27% in a week) and Hengli's own refinery (−25% in a month) were sanctioned. Kantons, Qingdao Port and PetroChina only part-owned the sanctioned terminals and fell 0–8%.
+- **The company depends on the US.** ZTE needed US chips, so a US export ban stopped its production (−41% in a day). Standard Chartered needed its New York licence (−22% in two days).
+- **The shares can be shorted.** Hong Kong and Taiwan listings can. Mainland-only listings fall too, but foreign funds have little ability to short them.
+- **The US has to act.** In every case above, the stock fell when the US announced the action. We found no case where a published report alone moved the price.
+
+**Where to look, ranked by how well each area fits those tests** (our judgment)
+
+1. **Suppliers to Iran's carmakers.** Sanctionable since 2026-10-01. Listed parts and tyre makers have named Iran Khodro in their own filings. Many also sell to US and European carmakers, which a sanction would cut off.
+2. **Electronics and component makers selling to Iran through middlemen.** This is the ZTE pattern: the US cuts off the US parts or software the company needs. Parts from listed Taiwanese and Chinese makers have been found in Iranian drones, though usually bought through distributors.
+3. **Listed companies that own or manage tankers directly.** This is the COSCO Shipping Energy pattern: the sanctioned ships are the company's business.
+4. **Listed banks in the UAE, Turkey and Hong Kong.** The US cut off three banks in August and September 2026. Losing access to the dollar is fatal for a bank.
+5. **Part-owned oil terminals.** The area this research started with. Past cases moved share prices least, because the terminals are a small part of large companies.
 
 ## Who is likely to be punished next
 
