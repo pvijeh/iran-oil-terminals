@@ -89,7 +89,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 ![Every US Iran action against a listed company, by date and 5-day share move](assets/actions_timeline.png)
 
-- Of the 46 actions with prices, only 6 moved the share more than 10% in a week. Five were companies cut off from their main business, and the sixth was Halkbank's deputy CEO's arrest.
+- Of the 52 share moves we could measure, only 6 fell more than 10% in a week. Four were ZTE and COSCO Shipping Energy being cut off. The other two were Standard Chartered in 2012, when a New York regulator threatened its licence, and the arrest of Halkbank's deputy CEO in 2017.
 - The 2025–26 cluster on the right is the terminal and refinery sanctions. They come more often now, but each one moves the owner's shares less.
 
 **Company or its main business cut off: large falls**
