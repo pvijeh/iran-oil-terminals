@@ -1,0 +1,35 @@
+# Foreign correspondent banks named by Iranian banks: receipts
+
+**What this is:** copies of every source used to list the foreign (non-Iranian, non-mainland-Chinese) banks that Iranian banks themselves published as correspondents, plus market-cap sources for the listed ones. All sources are public. Retrieved 2026-10-06. Live Iranian bank sites, and Codal, did not respond from this VM, so all Iranian pages come from Wayback Machine snapshots (exact snapshot in each URL).
+
+**Main finding:** only one Iranian bank published a list that names individual foreign banks: Bank Saderat Iran's "correspondents" pages (Wayback snapshot dated 2011-10-18). They name 81 distinct foreign banks after removing Bank Saderat's own branches, other Iranian banks, and 4 mainland Chinese banks. The full table is in `correspondents.csv`. The pages are 15 years old. They show what Bank Saderat published in 2011. They are **not** evidence that any of these relationships exist today.
+
+**Evidence level:** every row is "documented" (an Iranian bank's own published list). Halkbank is also "proven": the US DOJ indicted it in 2019 (case dropped 2026-06-10, per the repo ledger). Nothing here says any bank broke the law. A listed bank that deals with sanctioned Iranian banks today could be sanctioned under the 2026-10-05 OFAC warning / EO 13902. The 2011 list alone does not show that.
+
+**Market caps:** these come from companiesmarketcap.com screenshots taken 2026-10-06 (approximate USD). "not checked this run" means the bank is listed but we did not get a cap. Notes marked "from memory, not verified this run" are unverified.
+
+## Files (file | URL | retrieved | what it shows)
+
+- `2011-10-18_bsi_correspondents_europe.png` | https://web.archive.org/web/20111018145926/http://www.bsi.ir/Branches-correspondents-europe/default.bsi | 2026-10-06 | Bank Saderat Iran's published correspondent list, Europe (Raiffeisen/RZB, Bank Austria, Oberbank, Intesa Sanpaolo, Halkbank, Danske, Nordea, SEB, Swedbank, Handelsbanken, BCP, Bank of Cyprus, Byblos, DNB NOR, ZKB, CSOB, NLB, etc.)
+- `2011-10-18_bsi_correspondents_asia.png` | https://web.archive.org/web/20111018151910/http://www.bsi.ir/Branches-correspondents-asia/default.bsi | 2026-10-06 | Same list, Asia (Bank Mandiri, NCB, Riyad Bank, Al Rajhi, Banque Saudi Fransi, Hong Leong, Bank Islam, RHB, MCB, Habib Bank, Hua Nan, CBK, ABK, PNB, Arab Banking Corp, Housing Bank, Future Bank, FTB DPRK, Commercial Bank of Syria, etc.; Hong Kong and India rows are empty, no bank named)
+- `2011-10-18_bsi_correspondents_africa.png` | https://web.archive.org/web/20111018152904/http://www.bsi.ir/Branches-correspondents-africa/default.bsi | 2026-10-06 | Same list, Africa (Kenya Commercial Bank, Union Bank of Nigeria, NBC Tanzania, ABC units, Byblos Bank Africa, Sudanese and state banks)
+- `2011-10-18_bsi_correspondents_australia.png` | https://web.archive.org/web/20111018150709/http://www.bsi.ir/Branches-correspondents-australia/default.bsi | 2026-10-06 | Same list, Australia/NZ (Bank of New Zealand)
+- `2011-10-18_bsi_correspondents_america.png` | https://web.archive.org/web/20111018152420/http://www.bsi.ir/Branches-correspondents-america/default.bsi | 2026-10-06 | Same list, Americas (Banco do Brasil, Banco ABC Brasil, BancoEstado Chile, BROU Uruguay, Banco Nacional de Cuba)
+- `2011-10-18_bsi_correspondents_all_rows_extracted.csv` | the five snapshot URLs above (raw HTML via id_ form) | 2026-10-06 | Every row parsed from the five pages (152 rows, incl. Iranian branches and Chinese banks): SWIFT, name, country (Persian), correspondent tier, settlement route, address
+- `correspondents.csv` | derived from the files above | 2026-10-06 | Final table: one row per foreign bank, with the Iranian bank naming it, snapshot date, evidence level, listing, exchange, ticker, approx market cap and source
+- `2020-10-29_bmi_correspondent_banking_page.png` | https://web.archive.org/web/20201029204520/https://bmi.ir/en/DynamicPage.aspx?id=729 | 2026-10-06 | Bank Melli Iran "Correspondent Banking" page: only AML questionnaires, no foreign bank named (2018 snapshot 20180502161656 is the same)
+- `2017-04-27_mellat_nostro_vostro_page.png` | https://web.archive.org/web/20170427164042/http://en.bankmellat.ir/nostro_vostro.aspx | 2026-10-06 | Bank Mellat "NOSTRO & VOSTRO Accounts Dept" page: phone/fax only, no foreign bank named
+- `2024-07-18_middleeastbank_correspondent_banking_page.png` | https://web.archive.org/web/20240718042943/https://en.middleeastbank.ir/page/CorrespondentBanking | 2026-10-06 | Middle East Bank "Correspondent Banking" page: links to articles/licence only, no foreign bank named (2022 snapshot 20220518030716 is the same)
+- `2025-11-18_saman_correspondent_banking_page.png` | https://web.archive.org/web/20251118071745/https://sb24.ir/en/portal/home/?257302/corresponding-banking | 2026-10-06 | Saman Bank "Correspondent Banking" page: general text, no foreign bank named
+- `2026-10-06_companiesmarketcap_largest_banks_p1.png` … `_p6.png` | https://companiesmarketcap.com/banks/largest-banks-by-market-cap/?page=1 … 6 | 2026-10-06 | Market caps (USD) and tickers used in correspondents.csv
+- `2026-10-06_companiesmarketcap_dnb.png` | https://companiesmarketcap.com/dnb/marketcap/ | 2026-10-06 | DNB market cap about $46.26 B
+- `2026-10-06_companiesmarketcap_kbc.png` | https://companiesmarketcap.com/kbc/marketcap/ | 2026-10-06 | KBC (parent of CSOB) market cap about $56.61 B
+
+## What failed or found nothing
+
+- **Live sites:** bmi.ir, bankmellat.ir, bsi.ir, tejaratbank.ir, edbi.ir, codal.ir and the others timed out from this VM. We used only Wayback snapshots.
+- **Codal:** not reachable live, and no usable Codal filing snapshots were found. No Codal nostro-account notes were checked.
+- **No named banks (snapshots checked, not saved because they name no bank):** EDBI correspondent page (20140831015415), its price list for correspondents PDF (20140831072505), and its 2012-13 annual report (20140831120536). It mentions "agency relations with foreign banks" but names none. Also: Tejarat's "Corresponding" PDF (20160805102113, a CBI AML instruction), Eghtesad Novin international banking (20230731121136), Sina international banking (20231129050038), Karafarin international services (20200923101607).
+- **Broken archives:** Karafarin annual-report PDFs (2021) and several Tejarat annual-report PDFs are cut off at 1 MiB in Wayback and do not open. Bank Mellat English annual reports 2019-20, 2020-21 and 2022 (listed on snapshot 20250421121820) were not archived: Wayback returned 404. Bank Pasargad pages returned a JavaScript challenge.
+- **Not reached in the time box:** Bank Sepah annual reports (2010 snapshots found, not parsed), Parsian annual reports (2024 snapshots found, not parsed), Central Bank of Iran, Persian-language (بانکهای کارگزار) pages, and a 2022-2026 version of the Bank Saderat list.
+- **Market caps not taken:** NLB, Bank of Cyprus, Byblos, Housing Bank (Jordan), Islami Bank Bangladesh, United Commercial Bank, PNB, Nepal Bank, KCB, Banco ABC Brasil. They are not on the companiesmarketcap bank list pages we saved.
