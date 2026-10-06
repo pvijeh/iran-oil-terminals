@@ -6,26 +6,38 @@ title: Which listed companies could be hit next by US sanctions on Iran
 
 ## Executive summary
 
-- **What this is:** a check, using only public data, of which stock-market-listed companies, mainly in Hong Kong, mainland China and Taiwan, do business that the US now sanctions as helping Iran.
-- **Why it matters:** in 2026 the US widened its Iran sanctions from oil to cars, rail, shipping, aviation, technology, gold and crypto. A foreign company caught in one of these sectors can be cut off from US banks and the dollar. If it is listed, its profit and share price take the hit.
-- **Where we looked:**
-  - The US Iran regulations, executive orders and Treasury press releases.
-  - Every US Treasury sanctions fine published from 2018 to 2025, and share prices around 50 US actions since 2009.
-  - US sanctions lists (OFAC, OpenSanctions), matched to listed owners through Hong Kong and mainland Chinese company filings.
-  - 220,000 port visits by 669 sanctioned ships, from Global Fishing Watch.
-  - Ukraine's database of parts found in Iranian drones, and Iran's largest online shop, Digikala.
-- **What we found:**
-  - **Already hit:** two Hong Kong-listed companies own Chinese oil terminals the US has sanctioned. Sinopec Kantons (00934) lost a terminal that made about 12% of its 2024 pre-tax profit. Qingdao Port (06198) owns 70% of another.
-  - **Likely next, car suppliers:** since 2026-10-01 any company selling to Iran's two big carmakers can be sanctioned. Linglong Tyre (SSE 601966) named Iran Khodro as a customer as recently as 2024, and Anpeilong (SZSE 301413) named an Iranian supplier to both carmakers in 2023.
-  - **Likely next, banks:** the US cut off banks in the UAE, Turkey and Russia in August and September 2026 for moving money for Iran.
-  - **Oil terminals:** free ship tracking can't show which terminal is next, because sanctioned tankers stop showing up at Chinese piers once sanctioned. The one exception is seven sanctioned gas carriers docking openly at Chaozhou, in southern China.
-- **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
-- **Where to look:** the biggest falls came when a company's main business was cut off. We rank five areas to look for the next one: car-parts suppliers, electronics makers, tanker owners, banks, then part-owned oil terminals.
-- **Timing:** OFAC usually posts at about 10 am New York time, after Asian markets close, so Hong Kong and mainland shares take the whole hit at the next open. Only Istanbul, London, Moscow and New York are still trading when the news lands.
-- **Warning before the big falls:** in the six biggest falls, the evidence was usually public months or years ahead, but the shares fell only when the US acted. See the [case studies](case-studies/).
-- **Banks:** no listed non-Chinese bank has been cut off from the dollar over Iran yet. Charges and fines moved shares 2–13%, most of all when Halkbank's deputy CEO was arrested in 2017. US court records also name QNB Bank, Bank of Baroda, and units of Emirates NBD and Saudi National Bank as handling money in the Halkbank scheme.
-- **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. EU exports to Iran fell to €3.0bn in 2025, mostly medicine and machinery. We found no European listed company exposed to the 2026 sectors.
-- **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
+- **What this is:** a check, using only public data, of which stock-market-listed companies help Iran get around US sanctions, and whether a US action against them would move their share price. It focuses on Hong Kong, mainland China and Taiwan, with banks in Turkey, the UAE and India.
+- **Why it matters:** in 2026 the US widened its Iran sanctions from oil and banks to cars, rail, shipping, aviation, technology, gold and crypto. A foreign company caught in one of these sectors can be cut off from US banks and the dollar, with no US connection needed.
+- **Where we looked:** US Treasury, Justice Department and court records; share prices around 50 US actions since 2009; US sanctions lists matched to listed owners through Hong Kong and mainland filings; 220,000 port visits by sanctioned ships; Iranian banks' own websites; and Ukraine's database of parts found in Iranian drones.
+
+**Every listed company the US has hit over Iran, and what its shares did** (share move against the local index; the full table is [below](#what-a-us-action-does-to-the-share-price))
+
+- **Main business cut off: large falls.**
+  - **ZTE, 2018** (export ban for breaking its Iran plea deal): −41% the day trading restarted in Hong Kong, −62% over 20 trading days in Shenzhen.
+  - **COSCO Shipping Energy, 2019** (two tanker units sanctioned): −27% in five days in Hong Kong.
+  - **Hengli Petrochemical, 2026** (its Dalian refinery sanctioned): −10% the next day, the daily limit, and −25% over 20 days.
+  - **ZTE, 2016** (first export ban): −16% in five days.
+- **Banks threatened or charged: falls only when the threat was serious.**
+  - **Standard Chartered, 2012** (New York regulator threatened its licence): −17% the next day.
+  - **Halkbank, 2017** (deputy CEO arrested): −13% the next day. The later US actions against Halkbank moved it 0–10%.
+  - **Industrial Bank of Korea, 2020** ($86M penalty): −2%. **VTB, 2026** (sanctioned, but already under Russia sanctions): −1%.
+- **Part-owned oil terminal sanctioned, 2025: small falls.** Sinopec Kantons −4%, Qingdao Port 0% in Hong Kong and −6% in Shanghai, PetroChina −2%, Shanghai International Port −3%, Zhangjiagang Freetrade −8%, Wintime Energy −1%, each over five days.
+- **Fines: almost no effect.** 29 of 34 fines since 2009 moved the shares less than 5% in five days, including BNP Paribas's $964M in 2014.
+
+**What we learned from those cases**
+
+- **Only losing the main business crashes a stock.** That means a company that needs US chips (ZTE), whose own tankers or refinery are sanctioned (COSCO, Hengli), or a bank that could lose access to US dollars (Standard Chartered).
+- **The shares fall when the US acts, not when the evidence comes out.** In five of the six biggest falls the shares were flat or up in the 20 trading days before, even when the evidence had been public for years. Each has a [case study](case-studies/).
+- **The fall happens at the next open.** OFAC usually posts at about 10 am New York time, after Asian markets close. Only Istanbul, London, Moscow and New York are still trading when the news lands.
+
+**Who could be next**
+
+- **We found no listed company that is both likely to be hit and likely to crash if it is.** Iran's trade now runs mostly through small shell companies with no listed owner.
+- **Likely to be hit, small effect:** owners of Chinese oil terminals, such as Sinopec Kantons and Qingdao Port. Terminal sanctions now come every few months, but past ones moved the owners 0–8%.
+- **Less likely, large effect:** banks. No listed non-Chinese bank has been cut off from the dollar over Iran yet. Halkbank would break its March 2026 deal with the US if it took on new Iran business. UCO Bank (India) says it still runs rupee trade with Iranian banks. US court records also name QNB Bank, Bank of Baroda, and units of Emirates NBD and Saudi National Bank, but from 2012–2016.
+- **Newly exposed:** suppliers to Iran's carmakers, sanctionable since 2026-10-01. Linglong Tyre and Anpeilong named Iranian customers in recent filings, but both are listed only in mainland China, where foreign funds can hardly short.
+- **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. We found no European listed company exposed to the 2026 sectors.
+- **Still open:** whether the car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
 
 **What "sanctioned" means here:** listed by the US Treasury's Office of Foreign Assets Control (OFAC) under its Iran programs. These are US measures; buying from Iran is not illegal under Chinese law. This page is research, not investment advice.
 
@@ -108,7 +120,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 **Fines: no lasting effect**
 
 - **No effect:** 29 of 34 fines moved the shares less than 5% either way over five days, including BNP Paribas's $964M in 2014 and UniCredit's $611M in 2019. Only two fell further: Standard Chartered in 2012 and Yantai Jereh (−6%) in 2018.
-- **The exception:** Standard Chartered fell 22% in two days in August 2012. A New York regulator accused it of hiding Iran payments and threatened to take away its licence to operate in New York.
+- **The exception:** Standard Chartered fell 22% in two days in August 2012, measured from the Friday before (17% on the first trading day after the order came out). A New York regulator accused it of hiding Iran payments and threatened to take away its licence to operate in New York.
 
 **What this means for the list below**
 
@@ -164,7 +176,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 **Short answer: usually yes, in the press or in earlier US actions, but almost never in the company's own filings. The shares didn't fall until the US acted.** In five of the six cases below the shares were flat or up in the last 20 trading days before the action. The exception is ZTE in 2018 (−7%).
 
-**Each case has its own page with the sources and a price chart** ([all case studies](case-studies/)):
+**Each case has its own page with the sources and a price chart** ([all case studies](case-studies/)). These pages measure from the last close before the action, so a few figures differ slightly from the table above.
 
 - **[ZTE, 2016](case-studies/zte-2016.html):** Reuters reported ZTE's Iran surveillance sale in 2012, four years before the US export ban. 20 days before: +0.4%. 5 days after: −20%.
 - **[ZTE, 2018](case-studies/zte-2018.html):** the 2017 settlement spelled out a suspended export ban. What triggered it (false statements to the US) wasn't public. 20 days before: −7%. 1 day after: −43%.
@@ -175,61 +187,6 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 **What this means:** a short based on public evidence pays only if the US acts while you hold it. In these cases the wait after the first public warning was up to four years.
 
-## Europe
-
-**Short answer: Europe was the main target until 2019, and it no longer is. We found no European listed company at risk of being cut off.**
-
-**Punished before: mostly banks, fined for moving dollars for Iran. The fines didn't move the shares.**
-
-| Date | Company | Fine | Share move, 5 days, vs index |
-|---|---|---|---|
-| 2012-08 | Standard Chartered | NY licence threat; $132M fine followed in Dec | −16% |
-| 2012-06 | ING | $619M | −3% |
-| 2012-12 | HSBC | $375M | 0% |
-| 2014-01 | Deutsche Börse (Clearstream) | $152M | −2% |
-| 2014-06 | BNP Paribas | $964M | +1% |
-| 2015-03 | Commerzbank | $259M | +2% |
-| 2015-10 | Crédit Agricole | $330M | 0% |
-| 2015-11 | Deutsche Bank | $258M (NY regulator) | −3% |
-| 2018-11 | Société Générale | $54M | 0% |
-| 2019-04 | Standard Chartered | $657M | +4% |
-| 2019-04 | UniCredit | $611M | −1% |
-| 2021-04 | SAP | $2.1M | −2% |
-| 2021-07 | Alfa Laval (Dubai unit) | $0.4M | +9% |
-
-- Older cases (Lloyds, Barclays, RBS, Intesa, Maersk, DHL, Credit Suisse) are in [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv). Fines are from [OFAC's enforcement notices](https://ofac.treasury.gov/civil-penalties-and-enforcement-information).
-
-**Sanctioned since 2025: shell companies, not listed ones**
-
-- The European addresses on OFAC's Iran designations since 2025 are mostly small trading, shipping and front companies in the UK, Cyprus, Greece and Switzerland. None is listed or owned by a listed company, as far as we found.
-
-**Still trading with Iran: EU exports are falling and are mostly medicine and machinery**
-
-| Exporter | 2023 | 2024 | 2025 |
-|---|---|---|---|
-| EU total | €3.94bn | €3.71bn | €2.97bn |
-| Germany | €1.20bn | €1.27bn | €0.96bn |
-| Netherlands | €0.55bn | €0.55bn | €0.52bn |
-| Italy | €0.60bn | €0.53bn | €0.45bn |
-| France | €0.28bn | €0.26bn | €0.23bn |
-| Belgium | €0.31bn | €0.30bn | €0.19bn |
-
-| What the EU sold Iran in 2025 | Value |
-|---|---|
-| Medicines | €641M |
-| Machinery | €599M |
-| Measuring, medical and optical instruments | €484M |
-| Electrical equipment | €110M |
-| Cars and car parts | €16M |
-| Aircraft and parts | €1M |
-| Rail equipment | €1M |
-
-- **Source:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/), dataset DS-045409. Table: [eu_exports_to_iran.csv](data/eu_exports_to_iran.csv).
-- **Why it's mostly legal:** EU law allows most of this trade, and medicine and food are exempt from US sanctions too. The EU's "blocking statute" also forbids EU companies from obeying US secondary sanctions.
-- **What it means:** the sectors the US added in 2026 (cars, aviation, rail) add up to less than 1% of what the EU officially sells Iran. A European company exposed through them would most likely be selling through a third country such as the UAE or Turkey. EU trade figures can't show that.
-
-**Not checked:** European car-parts and aviation suppliers selling to Iran through the UAE or Turkey. Iranian trade-fair exhibitor lists and Digikala listings could show this.
-
 ## Where to look for a case that would move a share price
 
 **Short answer: look for a company whose main business would be cut off, not one with a small stake in a sanctioned terminal.**
@@ -237,7 +194,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 **What separates a big fall from a small one** (from the share-price table above)
 
 - **The sanctioned business is most of the company.** COSCO Shipping Energy's own tankers (−27% in a week) and Hengli's own refinery (−25% in a month) were sanctioned. Kantons, Qingdao Port and PetroChina only part-owned the sanctioned terminals and fell 0–8%.
-- **The company depends on the US.** ZTE needed US chips, so a US export ban stopped its production (−41% in a day). Standard Chartered needed its New York licence (−22% in two days).
+- **The company depends on the US.** ZTE needed US chips, so a US export ban stopped its production (−41% in a day). Standard Chartered needed its New York licence (−17% the next day).
 - **The shares can be shorted.** Hong Kong and Taiwan listings can. Mainland-only listings fall too, but foreign funds have little ability to short them.
 - **The US has to act.** In every case above, the stock fell when the US announced the action. We found no case where a published report alone moved the price.
 
@@ -266,7 +223,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 **2. Banks that move money for Iran**
 
 - **What Treasury has done:** on 2026-08-28 it proposed cutting Banque Misr UAE off from the US financial system, estimating it handled about $1.8bn for 103 companies that may be Iranian fronts ([press release](https://home.treasury.gov/news/press-releases/sb0617)). It sanctioned Golden Global Bank in Turkey on 2026-09-04 ([press release](https://home.treasury.gov/news/press-releases/sb0622)) and Russia's VTB Bank on 2026-09-14 ([press release](https://home.treasury.gov/news/press-releases/sb0629)).
-- **Likely next:** other banks in the UAE, Turkey and Hong Kong that handle payments for Iranian front companies. Treasury says banks everywhere now face "heightened sanctions risk".
+- **Likely next:** other banks in the UAE, Turkey and Hong Kong that handle payments for Iranian front companies. Treasury says banks everywhere now face "heightened sanctions risk". The listed banks named in the evidence are [below](#which-listed-banks-could-be-cut-off-next).
 
 **3. More Chinese oil terminals**
 
@@ -407,6 +364,61 @@ Market values are from the stockanalysis.com pages saved in the court-records re
 2. **Free radar satellite images:** the EU's [Sentinel-1](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1) satellites photograph these coasts every few days, at night and through cloud. A large tanker at a crude pier with no location signal is hiding where it is.
 3. **Chinese company registries:** Qichacha and similar registries may name who bought Rizhao Shihua's assets, who holds the Chaozhou pier's licence, and who is behind Huade's extra crude.
 
+## Europe
+
+**Short answer: Europe was the main target until 2019, and it no longer is. We found no European listed company at risk of being cut off.**
+
+**Punished before: mostly banks, fined for moving dollars for Iran. The fines didn't move the shares.**
+
+| Date | Company | Fine | Share move, 5 days, vs index |
+|---|---|---|---|
+| 2012-08 | Standard Chartered | NY licence threat; $132M fine followed in Dec | −16% |
+| 2012-06 | ING | $619M | −3% |
+| 2012-12 | HSBC | $375M | 0% |
+| 2014-01 | Deutsche Börse (Clearstream) | $152M | −2% |
+| 2014-06 | BNP Paribas | $964M | +1% |
+| 2015-03 | Commerzbank | $259M | +2% |
+| 2015-10 | Crédit Agricole | $330M | 0% |
+| 2015-11 | Deutsche Bank | $258M (NY regulator) | −3% |
+| 2018-11 | Société Générale | $54M | 0% |
+| 2019-04 | Standard Chartered | $657M | +4% |
+| 2019-04 | UniCredit | $611M | −1% |
+| 2021-04 | SAP | $2.1M | −2% |
+| 2021-07 | Alfa Laval (Dubai unit) | $0.4M | +9% |
+
+- Older cases (Lloyds, Barclays, RBS, Intesa, Maersk, DHL, Credit Suisse) are in [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv). Fines are from [OFAC's enforcement notices](https://ofac.treasury.gov/civil-penalties-and-enforcement-information).
+
+**Sanctioned since 2025: shell companies, not listed ones**
+
+- The European addresses on OFAC's Iran designations since 2025 are mostly small trading, shipping and front companies in the UK, Cyprus, Greece and Switzerland. None is listed or owned by a listed company, as far as we found.
+
+**Still trading with Iran: EU exports are falling and are mostly medicine and machinery**
+
+| Exporter | 2023 | 2024 | 2025 |
+|---|---|---|---|
+| EU total | €3.94bn | €3.71bn | €2.97bn |
+| Germany | €1.20bn | €1.27bn | €0.96bn |
+| Netherlands | €0.55bn | €0.55bn | €0.52bn |
+| Italy | €0.60bn | €0.53bn | €0.45bn |
+| France | €0.28bn | €0.26bn | €0.23bn |
+| Belgium | €0.31bn | €0.30bn | €0.19bn |
+
+| What the EU sold Iran in 2025 | Value |
+|---|---|
+| Medicines | €641M |
+| Machinery | €599M |
+| Measuring, medical and optical instruments | €484M |
+| Electrical equipment | €110M |
+| Cars and car parts | €16M |
+| Aircraft and parts | €1M |
+| Rail equipment | €1M |
+
+- **Source:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/), dataset DS-045409. Table: [eu_exports_to_iran.csv](data/eu_exports_to_iran.csv).
+- **Why it's mostly legal:** EU law allows most of this trade, and medicine and food are exempt from US sanctions too. The EU's "blocking statute" also forbids EU companies from obeying US secondary sanctions.
+- **What it means:** the sectors the US added in 2026 (cars, aviation, rail) add up to less than 1% of what the EU officially sells Iran. A European company exposed through them would most likely be selling through a third country such as the UAE or Turkey. EU trade figures can't show that.
+
+**Not checked:** European car-parts and aviation suppliers selling to Iran through the UAE or Turkey. Iranian trade-fair exhibitor lists and Digikala listings could show this.
+
 ## A separate question: listed companies' parts in Iranian drones
 
 **Source:** Ukraine's military intelligence (GUR) takes apart Iranian-designed Shahed and Geran drones shot down over Ukraine and publishes each part's maker in its [components database](https://war-sanctions.gur.gov.ua/en/components).
@@ -421,7 +433,11 @@ Market values are from the stockanalysis.com pages saved in the court-records re
 
 ## Our view
 
-The October 1 car-sector rule is the most likely source of the next sanctioned listed company. Mainland Chinese parts and tyre makers have named Iranian carmakers as customers in their own filings, and Treasury said it is going after foreign suppliers. The oil-terminal question needs a paid tracker or satellite images. The car-sector question needs only current filings and customs records, so it is the cheaper one to answer first. The catch: the car-parts names we found are listed only in mainland China, so they are hard for a foreign fund to short. A Hong Kong-listed supplier to Iran's carmakers would be the stronger find.
+**The US hits listed companies over Iran often, but it rarely hurts their shares.** Of 52 share moves we measured since 2009, only six fell more than 10% in a week, and they came from four companies: ZTE, COSCO Shipping Energy, Standard Chartered and Halkbank. The first three lost their main business or had a US banking licence threatened. Halkbank's fall came when its deputy CEO was arrested.
+
+**The likeliest next targets are the least likely to crash.** Chinese oil terminals and car-parts suppliers fit Treasury's 2026 campaign, but the terminals are small parts of large companies, and the car-parts makers are listed only in mainland China. The cases that would crash a stock, a listed bank cut off from dollars or a company whose main business depends on Iran, haven't turned up in the public record.
+
+**So public evidence alone doesn't make a short.** The market ignored years of public evidence on Halkbank and ZTE until the US acted. A position based on this page would pay only if the US acts while it is held. The two names closest to that test are Halkbank, which would break its March 2026 deal with the US if it took on new Iran business, and UCO Bank, which says it still trades with Iranian banks.
 
 ## Data
 
