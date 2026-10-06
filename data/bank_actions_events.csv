@@ -1,0 +1,11 @@
+date,bank,country,listed,ticker,index,action_type,action,source
+2012-07-31,Elaf Islamic Bank,Iraq,Iraq Stock Exchange,,,cut off from US accounts,CISADA ban on US correspondent accounts for dealings with Export Development Bank of Iran (lifted 2013-05-17),https://home.treasury.gov/news/press-releases/tg1661
+2016-03-19,Halkbank,Turkey,Borsa Istanbul,HALKB.IS,XU100.IS,customer charged,"US arrested Reza Zarrab (Saturday), whose Iran gold-for-oil scheme ran through Halkbank",https://en.wikipedia.org/wiki/Reza_Zarrab
+2017-03-28,Halkbank,Turkey,Borsa Istanbul,HALKB.IS,XU100.IS,executive charged,US arrested deputy CEO Mehmet Hakan Atilla for conspiring to evade Iran sanctions,https://en.wikipedia.org/wiki/Halkbank
+2018-01-03,Halkbank,Turkey,Borsa Istanbul,HALKB.IS,XU100.IS,executive convicted,Jury convicted Atilla on five of six counts,https://en.wikipedia.org/wiki/Halkbank
+2019-10-15,Halkbank,Turkey,Borsa Istanbul,HALKB.IS,XU100.IS,bank charged,DOJ indicted Halkbank for Iran sanctions evasion,https://en.wikipedia.org/wiki/Halkbank
+2026-06-10,Halkbank,Turkey,Borsa Istanbul,HALKB.IS,XU100.IS,charges dropped,DOJ asked the court to dismiss the case (good news for the bank),https://www.ainvest.com/news/shares-turkey-halkbank-3-93-early-trading-department-justice-formally-moves-drop-halkbank-case-2606/
+2020-04-20,Industrial Bank of Korea,South Korea,Korea Exchange,024110.KS,^KS11,fine,USD 86M (DOJ deferred prosecution plus NY regulator) over Iran payments through its New York branch,https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202004201
+2026-08-28,Banque Misr UAE,UAE,not listed (state-owned Egyptian parent),,,cut off proposed,FinCEN proposed revoking its US correspondent access,https://home.treasury.gov/news/press-releases/sb0617
+2026-09-04,Golden Global Bank,Turkey,not listed,,,sanctioned,OFAC designated it under EO 13902,https://home.treasury.gov/news/press-releases/sb0622
+2026-09-14,VTB Bank,Russia,Moscow Exchange,VTBR,IMOEX,sanctioned,OFAC designated it under EO 13902 for ties with sanctioned Iranian banks; already under US Russia sanctions since 2022,https://home.treasury.gov/news/press-releases/sb0629

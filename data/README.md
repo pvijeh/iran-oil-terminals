@@ -23,3 +23,7 @@ US Iran-related fines, export bans, sanctions and indictments against listed com
 ## eu_exports_to_iran.csv
 
 EU exports to Iran in euros, by reporting country (2023 to 2025, all goods) and by two-digit HS product chapter (2025, for the EU total, Germany, Italy and the Netherlands). Source: Eurostat Comext dataset DS-045409, reused under the Eurostat copyright notice (free reuse with credit).
+
+## bank_actions_events.csv / bank_actions_price_impact.csv
+
+Non-Chinese banks named in US Iran actions (sanctions, cut-offs from US correspondent accounts, criminal cases, fines not already in `iran_enforcement_price_impact.csv`), with whether each is listed and, for listed ones, the share change minus the local index change after 1, 5 and 20 trading days, measured from the announcement-day close (weekend news from the prior close). Prices: Yahoo Finance, and the Moscow Exchange ISS API for VTB. Iraqi banks trade on the Iraq Stock Exchange, which has no free price feed. Built with `scripts/bank_price_impact.py`.
