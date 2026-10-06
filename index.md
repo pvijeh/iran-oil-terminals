@@ -80,6 +80,18 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 - **How we checked:** for 50 US actions against listed companies or their subsidiaries since 2009, we took the share price change after the announcement, minus the change in the local stock index. Prices are from Yahoo Finance. The full table is in [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv).
 
+![Typical share move around US Iran actions, by type of action](assets/price_path_by_action.png)
+
+- **Main business cut off** (ZTE Hong Kong 2016 and 2018, COSCO Shipping Energy Hong Kong 2019, Hengli 2026): typically −16% on the first day and −23% after 5 and 20 trading days. ZTE's shares were suspended both times, so for ZTE the days count from when trading restarted.
+- **Halkbank charges** (2016–2019): −1% on the first day, −5% after a week, −6% after a month.
+- **Part-owned terminals** (2025): −1% to −3%.
+- **Fines** (34 cases): no typical move at all.
+
+![Every US Iran action against a listed company, by date and 5-day share move](assets/actions_timeline.png)
+
+- Of the 46 actions with prices, only 6 moved the share more than 10% in a week. Five were companies cut off from their main business, and the sixth was Halkbank's deputy CEO's arrest.
+- The 2025–26 cluster on the right is the terminal and refinery sanctions. They come more often now, but each one moves the owner's shares less.
+
 **Company or its main business cut off: large falls**
 
 - **ZTE (HKEX 00763 / SZSE 000063), April 2018:** the US banned exports to it for breaking its Iran plea deal. Trading was halted for two months. On reopening, the Hong Kong shares fell 41% in one day. The Shenzhen shares fell 62% over 20 trading days.
@@ -233,6 +245,12 @@ Every source is saved in [receipts/banks/](https://github.com/pvijeh/iran-oil-te
 | [US Treasury](https://home.treasury.gov/news/press-releases/sb0622) | 2026-09-04 | Golden Global Bank | No | OFAC sanctions it | – | – | – |
 | [US Treasury](https://home.treasury.gov/news/press-releases/sb0629) | 2026-09-14 | VTB | Moscow Exchange | OFAC sanctions it; already under US Russia sanctions | −1.2% | +0.2% | – |
 
+![Halkbank against the Istanbul index, 2015–2019](assets/halkbank_vs_bist100.png)
+
+- Halkbank lost about two-thirds of its value against the Istanbul index between 2015 and the end of 2019. Most of the fall came between the actions, not on the days the US announced them, especially in the months after the deputy CEO's arrest.
+- Not all of that fall was the US case. Turkish banks were also hit by the 2018 currency crisis (not separated out here).
+- The chart stops at 2019 because Halkbank issued new shares in 2020 and 2022, and the free price data doesn't adjust for that.
+
 Earlier European bank fines are in the share-price table above. Iraq's banks cut off in 2012 and 2023–25 trade on the Iraq Stock Exchange, which has no free price data.
 
 **Listed banks named in the evidence, and why each is included**
@@ -257,6 +275,21 @@ Earlier European bank fines are in the share-price table above. Iraq's banks cut
 **Unlisted banks also named:** Ziraat Bankası and Aktif Bank (Turkey) in the trial records, and 28 Iraqi banks barred from dollar transactions in 2023–2025 (the US never published the names; the lists come from Iraqi and Arab press).
 
 **What we couldn't check:** live Iranian bank sites and Tehran's filing site (Codal) timed out. Most Treasury releases on exchange houses say the money moved through accounts at banks in the UAE, Turkey and Hong Kong without naming the banks. Turkish and UAE bank annual reports weren't read in full.
+
+**What would have to happen for each bank's shares to fall hard**
+
+The share price chart above shows only one thing crashes a stock: being cut off from the business that earns most of its money. For a bank, that means losing access to US dollars.
+
+| Bank | Market value (2026-10-06) | Exchange | Current Iran business found? | What would have to happen |
+|---|---|---|---|---|
+| Halkbank | about $6.5bn (TRY 322bn) | Borsa Istanbul | None found. The March 2026 deal with the US bars it | The US finds new Iran business, which would break the deal |
+| UCO Bank | about $3.0bn (INR 292bn) | NSE India | Yes: rupee trade accounts with Iranian banks, which its CEO calls sanctions-compliant | The US decides that trade breaks US sanctions, which the 2026-10-05 warning allows |
+| QNB Bank | about $18.9bn (TRY 929bn) | Borsa Istanbul | None found. The evidence is 2012–2016 | New evidence of Iranian payments |
+| Bank of Baroda | about $12.5bn (INR 1.2tn) | NSE India | None found. The evidence is 2012–2016 | New evidence of Iranian payments |
+| Emirates NBD (owns Denizbank) | about $53bn (AED 195bn) | Dubai | None found. The evidence is 2012–2016 | New evidence, and an Iran business big enough to matter for a $53bn group |
+| HSBC | not captured | Hong Kong, London, New York | Old guarantees, being wound down | Unlikely: its Iran exposure is tiny for a bank this size |
+
+Market values are from the stockanalysis.com pages saved in the court-records receipts folder, converted at 2026-10-06 rates. UCO Bank is the only listed bank on this list with Iranian business it says is still running.
 
 **Our view:** the court records give the clearest list. Halkbank is the bank most likely to be hit again. Its March 2026 deal bars Iran-benefiting transactions, so new Iran business would break an agreement with the US. QNB Bank, Bank of Baroda and the units of Emirates NBD and Saudi National Bank are next, but their evidence dates from 2012–2016, and nothing we found shows they still handle Iranian money.
 
