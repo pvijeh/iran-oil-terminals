@@ -82,7 +82,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 
 ![Typical share move around US Iran actions, by type of action](assets/price_path_by_action.png)
 
-- **Main business cut off** (ZTE Hong Kong 2016 and 2018, COSCO Shipping Energy Hong Kong 2019, Hengli 2026): typically −16% on the first day and −23% after 5 and 20 trading days. ZTE's shares were suspended both times, so for ZTE the days count from when trading restarted.
+- **Main business cut off** (ZTE Hong Kong 2016 and 2018, COSCO Shipping Energy Hong Kong 2019, Hengli 2026): typically −16% on the first day and −23% after 5 and 20 trading days. ZTE's shares were suspended both times, so for ZTE the days count from when trading restarted. The suspensions ran from 2016-03-07 to 04-06 and from 2018-04-17 to 06-12. Over each suspension the index is measured over the same dates. In 2018 ZTE had already agreed a $1bn settlement with the US by the time trading restarted, so its −41% first-day fall in Hong Kong (against the index) covers both the ban and the settlement.
 - **Halkbank charges** (2016–2019): −1% on the first day, −5% after a week, −6% after a month.
 - **Part-owned terminals** (2025): −1% to −3%.
 - **Fines** (34 cases): no typical move at all.
@@ -245,11 +245,17 @@ Every source is saved in [receipts/banks/](https://github.com/pvijeh/iran-oil-te
 | [US Treasury](https://home.treasury.gov/news/press-releases/sb0622) | 2026-09-04 | Golden Global Bank | No | OFAC sanctions it | – | – | – |
 | [US Treasury](https://home.treasury.gov/news/press-releases/sb0629) | 2026-09-14 | VTB | Moscow Exchange | OFAC sanctions it; already under US Russia sanctions | −1.2% | +0.2% | – |
 
-![Halkbank against the Istanbul index, 2015–2019](assets/halkbank_vs_bist100.png)
+![Halkbank against other Turkish banks, 2015–2019](assets/halkbank_vs_bist100.png)
 
-- Halkbank lost about two-thirds of its value against the Istanbul index between 2015 and the end of 2019. Most of the fall came between the actions, not on the days the US announced them, especially in the months after the deputy CEO's arrest.
-- Not all of that fall was the US case. Turkish banks were also hit by the 2018 currency crisis (not separated out here).
-- The chart stops at 2019 because Halkbank issued new shares in 2020 and 2022, and the free price data doesn't adjust for that.
+- **Halkbank fell 58% from January 2015 to December 2019. Over the same period the Istanbul bank index was flat (0%), and VakifBank, Garanti and Akbank each rose 6–15%.** So the fall was specific to Halkbank, not Turkey's banks in general.
+- **The 2018 currency crisis doesn't explain it.** In 2018 Halkbank fell 33%, the same as the bank index (−32%).
+- **The gap opened in the other years:**
+  - 2015 to the Zarrab arrest: Halkbank −29%, bank index −18%.
+  - Zarrab arrest to the deputy CEO's arrest: Halkbank +3%, bank index +15%.
+  - Deputy CEO's arrest to his conviction: Halkbank −1%, bank index +11%.
+  - 2019, the year it was charged: Halkbank −13%, bank index +41%.
+- **So most of the damage came between the announcements, not on the days of them.** This is our reading of the prices. We haven't checked other Halkbank news in those years.
+- The chart stops at 2019. Halkbank issued new shares in 2020 and 2022, and the free price data doesn't adjust for that.
 
 Earlier European bank fines are in the share-price table above. Iraq's banks cut off in 2012 and 2023–25 trade on the Iraq Stock Exchange, which has no free price data.
 

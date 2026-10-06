@@ -98,9 +98,9 @@ ax.set_title('Every US Iran action against a listed company we measured\nMost mo
 ax.legend(frameon=False, fontsize=9.5, loc='lower left')
 fig.tight_layout(); fig.savefig('assets/actions_timeline.png', dpi=150)
 
-# Halkbank vs BIST 100
+# Halkbank vs BIST Banks index
 a, b = dt.datetime(2015, 1, 1, tzinfo=dt.UTC), dt.datetime(2020, 1, 1, tzinfo=dt.UTC)
-h, i = dict(yahoo('HALKB.IS', a, b, '1wk')), dict(yahoo('XU100.IS', a, b, '1wk'))
+h, i = dict(yahoo('HALKB.IS', a, b, '1wk')), dict(yahoo('XBANK.IS', a, b, '1wk'))
 d = sorted(set(h) & set(i)); r0 = h[d[0]] / i[d[0]]
 fig, ax = plt.subplots(figsize=(9, 4.6))
 ax.plot(d, [100 * h[t] / i[t] / r0 for t in d], color='#2c3e50', lw=1.6)
@@ -110,7 +110,7 @@ for k, (m, lab) in enumerate(marks):
     md = dt.date.fromisoformat(m)
     ax.axvline(md, color='#c0392b', lw=0.8, ls='--')
     ax.text(md, ax.get_ylim()[1] * (0.97 - 0.07 * (k % 3)), ' ' + lab, fontsize=8.5, color='#c0392b')
-ax.set_ylabel('Halkbank ÷ BIST 100 (Jan 2015 = 100)')
-ax.set_title('Halkbank against the Istanbul index, 2015–2019, with each US action marked\n(stops before the 2020 and 2022 share issues, which the price data does not adjust for)', loc='left', fontsize=12)
+ax.set_ylabel('Halkbank ÷ Istanbul bank index (Jan 2015 = 100)')
+ax.set_title('Halkbank against other Turkish banks (BIST Banks index), 2015–2019, US actions marked\n(stops before the 2020 and 2022 share issues, which the price data does not adjust for)', loc='left', fontsize=12)
 ax.xaxis.set_major_locator(mdates.YearLocator(1))
 fig.tight_layout(); fig.savefig('assets/halkbank_vs_bist100.png', dpi=150)
