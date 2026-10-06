@@ -21,6 +21,7 @@ title: Which listed companies could be hit next by US sanctions on Iran
   - **Oil terminals:** free ship tracking can't show which terminal is next, because sanctioned tankers stop showing up at Chinese piers once sanctioned. The one exception is seven sanctioned gas carriers docking openly at Chaozhou, in southern China.
 - **Price impact:** since 2009, fines have barely moved share prices. Being cut off has: ZTE fell 41% in a day in 2018, COSCO Shipping Energy 27% in a week in 2019, and mainland-only Hengli 25% in a month in 2026.
 - **Where to look:** the biggest falls came when a company's main business was cut off. We rank five areas to look for the next one: car-parts suppliers, electronics makers, tanker owners, banks, then part-owned oil terminals.
+- **Banks:** no listed non-Chinese bank has been cut off from the dollar over Iran yet. Charges and fines moved shares 2–13%, most of all when Halkbank's deputy CEO was arrested in 2017. US court records also name QNB Bank, Bank of Baroda, and units of Emirates NBD and Saudi National Bank as handling money in the Halkbank scheme.
 - **Europe:** European banks paid most of the big Iran fines up to 2019, and the shares barely moved. EU exports to Iran fell to €3.0bn in 2025, mostly medicine and machinery. We found no European listed company exposed to the 2026 sectors.
 - **Still open:** whether Linglong, Anpeilong and the other car-parts names still sell to Iran, and which oil terminal is taking Iranian crude now.
 
@@ -203,6 +204,62 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 - **What we saw:** Digikala, Iran's largest online shop, lists hundreds of products each from Apple, HP, Dell, Cisco, Nvidia and Microsoft. These are unofficial imports, and the listings don't show who exported them.
 - **Why it matters:** this is how most past fines happened. A distributor, usually in Dubai, buys US goods and ships them on to Iran.
 
+## Which listed banks could be cut off next
+
+**Short answer: no listed non-Chinese bank has yet been cut off from the dollar over Iran. The banks Treasury cut off in 2026 were unlisted, or already sanctioned. Charges and fines against listed banks moved their shares 2–13%.**
+
+**Why banks:** a bank that loses its US correspondent accounts can't clear dollars, which for most banks means losing much of its business. On 2026-10-05 OFAC warned all foreign banks that they "could be targeted at any time without advance notification" if they keep dealing with sanctioned Iranian banks ([OFAC notice](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/treasury-exchange-houses/ofac_alert_2026-10-05_FFI_iran.pdf)).
+
+**Where we looked**
+
+- **Iranian banks' own websites:** pages listing their foreign partner banks, live and on the Wayback Machine. Only Bank Saderat's 2011 pages named any.
+- **US court records:** the 2017 trial of Halkbank's deputy CEO and the 2019 case against Halkbank (SDNY 1:15-cr-00867), from CourtListener.
+- **Treasury, OFAC and FinCEN:** 134 Iran-related press releases from 2023 to 2026-10-06, plus FinCEN's notices and its October 2025 report on Iranian shadow banking.
+- **Listed banks' filings and press:** banks in Turkey, the UAE, Iraq, Oman, India, Central Asia and Hong Kong.
+
+Every source is saved in [receipts/banks/](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/banks) with an INDEX.md giving the URL and retrieval date. The full list of 134 named banks is in [data/bank_leads.csv](https://github.com/pvijeh/iran-oil-terminals/blob/main/data/bank_leads.csv).
+
+**Past US Iran actions against non-Chinese banks** (share move minus the local index, measured from the close before the news)
+
+| Date | Bank | Listed | Action | 1 day | 5 days | 20 days |
+|---|---|---|---|---|---|---|
+| 2016-03-19 | Halkbank | Borsa Istanbul | US arrests Reza Zarrab, whose Iran gold scheme ran through the bank | +2.5% | −6.0% | −7.5% |
+| 2017-03-28 | Halkbank | Borsa Istanbul | US arrests deputy CEO Hakan Atilla | −13.3% | −12.5% | −5.0% |
+| 2018-01-03 | Halkbank | Borsa Istanbul | Atilla convicted | +0.8% | −4.3% | −10.1% |
+| 2019-10-15 | Halkbank | Borsa Istanbul | US charges the bank itself | −2.3% | −2.4% | +0.1% |
+| 2020-04-20 | Industrial Bank of Korea | Korea Exchange | $86M penalty for Iran payments through New York | −1.9% | −2.3% | −4.7% |
+| 2026-06-10 | Halkbank | Borsa Istanbul | US moves to drop the case, after a March deferred prosecution deal | 0.0% | +2.3% | −10.5% |
+| 2026-08-28 | Banque Misr UAE | No (branch of state-owned Egyptian bank) | FinCEN proposes cutting off its US accounts | – | – | – |
+| 2026-09-04 | Golden Global Bank | No | OFAC sanctions it | – | – | – |
+| 2026-09-14 | VTB | Moscow Exchange | OFAC sanctions it; already under US Russia sanctions | −1.2% | +0.2% | – |
+
+Earlier European bank fines are in the share-price table above. Iraq's banks cut off in 2012 and 2023–25 trade on the Iraq Stock Exchange, which has no free price data.
+
+**Listed banks named in the evidence, and why each is included**
+
+"Documented" means a court record, a Treasury release, the bank's own filing or an Iranian bank's own website names it. "Lead" means weaker evidence. None of these banks has been charged or sanctioned over Iran since the actions above.
+
+| Bank | Listed | Why included | Found in | Evidence | Receipt |
+|---|---|---|---|---|---|
+| Halkbank | Borsa Istanbul HALKB | Handled the Zarrab scheme; March 2026 deal with the US Justice Department bars it from Iran-benefiting transactions; former Halkbank staff ran Golden Global | Court records, press | US action | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/listed-bank-filings/tr-halkbank-2026-03-09_anadolu_dpa.png) |
+| QNB Bank (ex-Finansbank) | Borsa Istanbul QNBTR | Account used in the gold-for-payments chain | Trial transcript | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc402_pages-68-89-117-125.pdf) |
+| Bank of Baroda | NSE BANKBARODA | Its Dubai branch held the account of a Zarrab front company that received Halkbank transfers | Trial transcript | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc410_pages-79-81-95.pdf) |
+| Emirates NBD (owner of Denizbank) | DFM EMIRATESNBD | Denizbank held a Zarrab front company's account receiving Halkbank money; Denizbank denied taking part | Trial transcript | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc408_pages-45-50.pdf) |
+| Saudi National Bank (owner of Türkiye Finans) | Tadawul 1180 | Türkiye Finans sat between Halkbank and Bank of Baroda in a payment chain | Trial transcript | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc408_pages-45-50.pdf) |
+| VakifBank | Borsa Istanbul VAKBN | Zarrab said it got "the okay" to join the Iran business; no transfers shown | Trial transcript | Documented (intent only) | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc406_pages-18-24-28-37-76.pdf) |
+| Garanti BBVA | Borsa Istanbul GARAN | Zarrab named it on a recorded call as a destination bank; no transaction shown | Trial transcript | Lead | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc406_pages-18-24-28-37-76.pdf) |
+| Woori Bank and Industrial Bank of Korea | KRX 316140 and 024110 | A Treasury witness said the US was "worried" about their Iran-related transactions; IBK paid $86M in 2020 | Trial transcript | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc418_pages-42.pdf) |
+| Standard Chartered | LSE STAN, HKEX 2888 | Its New York branch cleared dollars for an exchange house in the scheme; an April 2026 press report says a US judge ordered it and HSBC to hand over records in an Iran probe (paywalled) | Trial transcript, press | Documented / lead | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/zarrab-halkbank-court/sdny-1-15-cr-00867_doc410_pages-79-81-95.pdf) |
+| HSBC | HKEX 0005, LSE HSBA | Its 2025 annual report (Section 13(r)) lists about 14 old guarantees involving Bank Tejarat, Bank Melli and Bank of Industry and Mine, being wound down | Own filing | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/listed-bank-filings/hk-hsbc-2026-02-26_20F-FY2025_iran-pages.pdf) |
+| UCO Bank | NSE UCOBANK | Its CEO said in July 2026 it still runs rupee trade accounts with banks in Iran, which it calls sanctions-compliant | Press interview | Documented | [receipt](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/listed-bank-filings/in-uco-2026-07-23_livemint_iran-rupee-channel.png) |
+| 38 listed banks, e.g. Raiffeisen, Intesa, Al Rajhi, Banco do Brasil | Various | Named on Bank Saderat's own list of foreign partner banks in 2011; not evidence of ties today | Iranian bank website (Wayback) | Documented, 2011 only | [list](https://github.com/pvijeh/iran-oil-terminals/blob/main/receipts/banks/iranian-correspondents/correspondents.csv) |
+
+**Unlisted banks also named:** Ziraat Bankası and Aktif Bank (Turkey) in the trial records, and 28 Iraqi banks barred from dollar transactions in 2023–2025 (the US never published the names; the lists come from Iraqi and Arab press).
+
+**What we couldn't check:** live Iranian bank sites and Tehran's filing site (Codal) timed out. Most Treasury releases on exchange houses say the money moved through accounts at banks in the UAE, Turkey and Hong Kong without naming the banks. Turkish and UAE bank annual reports weren't read in full.
+
+**Our view:** the court records give the clearest list. Halkbank is the bank most likely to be hit again. Its March 2026 deal bars Iran-benefiting transactions, so new Iran business would break an agreement with the US. QNB Bank, Bank of Baroda and the units of Emirates NBD and Saudi National Bank are next, but their evidence dates from 2012–2016, and nothing we found shows they still handle Iranian money.
+
 ## Can ship tracking show the next oil terminal?
 
 **Not with free data.** Once sanctioned, tankers stop showing up at Chinese crude piers.
@@ -276,4 +333,5 @@ Every table behind this page is in [data/](https://github.com/pvijeh/iran-oil-te
 - **Tanker histories and drone parts:** [Ukraine GUR](https://war-sanctions.gur.gov.ua/en/transport/ships).
 - **Share prices:** Yahoo Finance daily closes; method in `scripts/price_impact.py`.
 - **EU trade:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/) DS-045409.
+- **Bank evidence:** saved copies of every source in [receipts/banks/](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/banks); bank list in `data/bank_leads.csv`; share moves in `data/bank_actions_price_impact.csv`.
 - **Company filings:** HKEX and [cninfo](http://www.cninfo.com.cn/), linked above.
