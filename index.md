@@ -125,7 +125,7 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
   - Car-industry sanctions, 2026-10-01: list at 12:36 ET, press release first archived at 13:23 ET.
   - VTB, 2026-09-14: list at 14:35 ET, press release first archived at 15:34 ET.
   - Five-sector order, 2026-08-24: list at 13:09 ET, press release first archived at 16:37 ET.
-- **FinCEN bank cut-offs come out in a press release first.** Banque Misr UAE was announced on 2026-08-28, and the notice reached the [Federal Register's public-inspection page](https://unblock.federalregister.gov/) on 08-31.
+- **FinCEN bank cut-offs come out in a press release first.** Banque Misr UAE was announced on 2026-08-28, and the notice reached the [Federal Register's public-inspection page](https://www.federalregister.gov/d/2026-17871) on 08-31.
 
 **What time of day OFAC posts** (all 391 list updates, 2024 to 2026-10-05)
 
