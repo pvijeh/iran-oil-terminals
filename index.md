@@ -98,6 +98,61 @@ Since 2025 the US has sanctioned Chinese oil terminals and refineries outright f
 - **A short needs the company cut off,** not just fined or holding a minority stake in a sanctioned site.
 - **Mainland-only shares do fall,** as Hengli and ZTE's Shenzhen shares show. But foreign funds have little ability to short them. Hong Kong-listed names are the practical shorts.
 
+## Europe
+
+**Short answer: Europe was the main target until 2019, and it no longer is. We found no European listed company at risk of being cut off.**
+
+**Punished before: mostly banks, fined for moving dollars for Iran. The fines didn't move the shares.**
+
+| Date | Company | Fine | Share move, 5 days, vs index |
+|---|---|---|---|
+| 2012-08 | Standard Chartered | NY licence threat; $132M fine followed in Dec | −16% |
+| 2012-06 | ING | $619M | −3% |
+| 2012-12 | HSBC | $375M | 0% |
+| 2014-01 | Deutsche Börse (Clearstream) | $152M | −2% |
+| 2014-06 | BNP Paribas | $964M | +1% |
+| 2015-03 | Commerzbank | $259M | +2% |
+| 2015-10 | Crédit Agricole | $330M | 0% |
+| 2015-11 | Deutsche Bank | $258M (NY regulator) | −3% |
+| 2018-11 | Société Générale | $54M | 0% |
+| 2019-04 | Standard Chartered | $657M | +4% |
+| 2019-04 | UniCredit | $611M | −1% |
+| 2021-04 | SAP | $2.1M | −2% |
+| 2021-07 | Alfa Laval (Dubai unit) | $0.4M | +9% |
+
+- Older cases (Lloyds, Barclays, RBS, Intesa, Maersk, DHL, Credit Suisse) are in [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv). Fines are from [OFAC's enforcement notices](https://ofac.treasury.gov/civil-penalties-and-enforcement-information).
+
+**Sanctioned since 2025: shell companies, not listed ones**
+
+- The European addresses on OFAC's Iran designations since 2025 are mostly small trading, shipping and front companies in the UK, Cyprus, Greece and Switzerland. None is listed or owned by a listed company, as far as we found.
+
+**Still trading with Iran: EU exports are falling and are mostly medicine and machinery**
+
+| Exporter | 2023 | 2024 | 2025 |
+|---|---|---|---|
+| EU total | €3.94bn | €3.71bn | €2.97bn |
+| Germany | €1.20bn | €1.27bn | €0.96bn |
+| Netherlands | €0.55bn | €0.55bn | €0.52bn |
+| Italy | €0.60bn | €0.53bn | €0.45bn |
+| France | €0.28bn | €0.26bn | €0.23bn |
+| Belgium | €0.31bn | €0.30bn | €0.19bn |
+
+| What the EU sold Iran in 2025 | Value |
+|---|---|
+| Medicines | €641M |
+| Machinery | €599M |
+| Measuring, medical and optical instruments | €484M |
+| Electrical equipment | €110M |
+| Cars and car parts | €16M |
+| Aircraft and parts | €1M |
+| Rail equipment | €1M |
+
+- **Source:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/), dataset DS-045409. Table: [eu_exports_to_iran.csv](data/eu_exports_to_iran.csv).
+- **Why it's mostly legal:** EU law allows most of this trade, and medicine and food are exempt from US sanctions too. The EU's "blocking statute" also forbids EU companies from obeying US secondary sanctions.
+- **What it means:** the sectors the US added in 2026 (cars, aviation, rail) add up to less than 1% of what the EU officially sells Iran. A European company exposed through them would most likely be selling through a third country such as the UAE or Turkey. EU trade figures can't show that.
+
+**Not checked:** European car-parts and aviation suppliers selling to Iran through the UAE or Turkey. Iranian trade-fair exhibitor lists and Digikala listings could show this.
+
 ## Who is likely to be punished next
 
 **Our view, based on what Treasury has done and said since April 2026. These are leads, not findings.**
@@ -199,4 +254,5 @@ Every table behind this page is in [data/](https://github.com/pvijeh/iran-oil-te
 - **Port visits:** [Global Fishing Watch](https://globalfishingwatch.org/), under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (non-commercial use only).
 - **Tanker histories and drone parts:** [Ukraine GUR](https://war-sanctions.gur.gov.ua/en/transport/ships).
 - **Share prices:** Yahoo Finance daily closes; method in `scripts/price_impact.py`.
+- **EU trade:** [Eurostat Comext](https://ec.europa.eu/eurostat/comext/newxtweb/) DS-045409.
 - **Company filings:** HKEX and [cninfo](http://www.cninfo.com.cn/), linked above.

@@ -19,3 +19,7 @@ OFAC civil penalties and settlements, 2018 to 2025, whose enforcement notice men
 ## iran_enforcement_price_impact.csv
 
 US Iran-related fines, export bans, sanctions and indictments against listed companies or their subsidiaries, 2009 to 2026, with the share price change after each one minus the local index change: first trading day, 5 and 20 trading days. Asian stocks are measured from that day's close, because US announcements come after Asian markets close. Days with no trading (halts) are skipped. The events are in `price_impact_events.csv`. Credit Suisse and SCG have no price data. Prices: Yahoo Finance. Built with `scripts/price_impact.py`.
+
+## eu_exports_to_iran.csv
+
+EU exports to Iran in euros, by reporting country (2023 to 2025, all goods) and by two-digit HS product chapter (2025, for the EU total, Germany, Italy and the Netherlands). Source: Eurostat Comext dataset DS-045409, reused under the Eurostat copyright notice (free reuse with credit).
