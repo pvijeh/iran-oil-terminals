@@ -2,15 +2,21 @@
 title: Two Hong Kong-listed companies own sanctioned Chinese oil terminals, and free ship tracking can't show which terminal is next
 ---
 
-Since March 2025 the US Treasury has sanctioned Chinese oil terminals one at a time for unloading Iranian crude. We matched each sanctioned terminal to its listed owner, then tracked 669 sanctioned ships through 220,000 port visits to see which terminal might be next.
-
 ## Executive summary
 
-- **Sinopec Kantons (HKEX 00934)** owned half of the sanctioned Rizhao terminal, which made about 12% of its 2024 pre-tax profit and is now being shut down.
-- **Qingdao Port (HKEX 06198)** owns 70% of the sanctioned Dongjiakou terminal, and its latest interim report does not mention the sanction.
-- **Free tracking data** shows no sanctioned tanker tied up at any Chinese crude pier in the last 12 months, so it can't show which terminal is next.
-- **Chaozhou is the exception:** seven sanctioned gas carriers tied up there, at a pier whose owner we have not confirmed.
-- **Drone parts:** parts from 10 listed companies, 4 of them in Taiwan, were found in Iranian-designed drones. Nothing shows the makers knew.
+- **What this is:** a check, using only public data, of which stock-market-listed companies own or supply businesses tied to Iran getting around US sanctions.
+- **Why it matters:** Iran keeps selling oil to China despite US sanctions. Since March 2025 the US has punished Chinese oil terminals that unload it, one terminal at a time. If a listed company owns the next terminal hit, its profit and share price take the damage.
+- **Where we looked:**
+  - US sanctions lists (OFAC, OpenSanctions).
+  - Company filings in Hong Kong and mainland China, to match each sanctioned terminal to its owner.
+  - Ship-tracking records: 220,000 port visits by 669 sanctioned ships, from Global Fishing Watch.
+  - Ukraine's database of parts found in Iranian drones.
+- **What we found:**
+  - **Two Hong Kong-listed companies own terminals already hit:** Sinopec Kantons (00934), which lost a terminal that made about 12% of its 2024 pre-tax profit, and Qingdao Port (06198).
+  - **Tracking can't predict the next one:** once sanctioned, tankers stop showing up at Chinese crude piers, most likely because they switch off their location signal.
+  - **One exception:** seven sanctioned gas carriers still dock openly at Chaozhou, in southern China. We haven't confirmed who owns that pier.
+  - **Drone parts:** parts from 10 listed companies, 4 in Taiwan, were found in Iranian drones. Nothing shows the makers knew.
+- **Still open:** which terminal is taking the oil now. That needs paid cargo-tracking data or satellite images.
 
 **What "sanctioned" means here:** listed by the US Treasury's Office of Foreign Assets Control (OFAC) under its Iran programs. These are US measures; buying Iranian oil is not illegal under Chinese law. This page is research, not investment advice.
 
