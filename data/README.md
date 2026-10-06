@@ -11,3 +11,7 @@ Every table behind the report. Counts of ships are counts of different IMO numbe
 - `mirror_trade_crude.csv`: crude trade as reported by China and by each partner country, from [UN Comtrade](https://comtradeplus.un.org/).
 
 Not included: the 220,000 individual Global Fishing Watch port visits. Its licence bars commercial use, and a public copy can't enforce that. Rebuild it with `scripts/fetch_gfw_port_visits.py` and a free [GFW API token](https://globalfishingwatch.org/our-apis/tokens) (set `GFW_TOKEN`), then run `scripts/summarize_gfw_port_visits.py`.
+
+## ofac_enforcement_iran.csv
+
+OFAC civil penalties and settlements, 2018 to 2025, whose enforcement notice mentions Iran. `mentions_itsr` is true when the notice cites the Iranian Transactions and Sanctions Regulations (56 of the 60 rows). Source: https://ofac.treasury.gov/civil-penalties-and-enforcement-information (US government work, public domain).
