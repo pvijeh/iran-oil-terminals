@@ -4,7 +4,7 @@ title: When do US sanctions on Iran move a share price?
 
 # When do US sanctions on Iran move a share price?
 
-*Almost never. Fines, charges and sanctions on part-owned terminals barely move the stock. The big falls came when the US cut a company off from its main business, and every one of them came after the US acted, not when the evidence came out.*
+*Almost never. Fines, charges and sanctions on part-owned terminals barely move the stock. The big falls came when the US cut a company off from its main business or went after a bank's access to the US, and every one of them came after the US acted, not when the evidence came out.*
 
 - **What this is:** a study of every US action over Iran against a stock-market-listed company since 2009, and what happened to its shares. We used it to look for the listed companies most at risk now.
 - **Why it matters:** in 2026 the US widened its Iran sanctions from oil and banks to cars, rail, shipping, aviation, technology, gold and crypto. A foreign company in any of these sectors can now be cut off from US banks and the dollar, with no US link needed.
@@ -15,13 +15,13 @@ title: When do US sanctions on Iran move a share price?
 
 **Takeaway: of more than 50 share moves we measured, the six that fell more than 10% in a week all came from losing a main business, or from a direct threat to a bank.**
 
-Since 2009 the US has fined, charged or sanctioned listed companies and their subsidiaries over Iran about 50 times. Most were fines: 34 of them, mostly European banks that moved dollars for Iranian clients before 2016. In 29 of the 34, the shares moved less than 5% against the local index in the week after. That includes BNP Paribas's $964M in 2014, the largest. To a large bank, a fine is a cost it has already set money aside for.
+Since 2009 the US has fined, charged or sanctioned listed companies and their subsidiaries over Iran about 50 times. Most were fines: 34 of them, mostly European banks that moved dollars for Iranian clients before 2016. In 29 of the 34, the shares moved less than 5% against the local index in the week after. That includes BNP Paribas's $964M in 2014, the largest.
 
 ![Figure 1: share move in the week after each US action](assets/fig1_every_company_hit.png)
 
 *Figure 1. Share move against the local stock index, 5 trading days after the action. All sanctions and bank charges, plus fines of $300M or more. Data: [iran_enforcement_price_impact.csv](data/iran_enforcement_price_impact.csv), [bank_actions_price_impact.csv](data/bank_actions_price_impact.csv).*
 
-The red bars are a different kind of event. In each one the US took away something the company couldn't run without:
+The biggest falls were a different kind of event. In each one the US took away, or threatened, something the company couldn't run without:
 
 | Company | Year | What the US took away | Share move vs index |
 |---|---|---|---|
@@ -31,7 +31,7 @@ The red bars are a different kind of event. In each one the US took away somethi
 | ZTE (Hong Kong) | 2016 | US chips: its first export ban | −16% in 5 days |
 | Standard Chartered (London) | 2012 | Nothing yet: a New York regulator threatened its licence to operate in New York | −17% the next day |
 
-Halkbank is the one large fall that doesn't fit cleanly. It fell 13% the day after the US arrested its deputy CEO in 2017, when the market had to price in a charge against the bank itself. When that charge came in 2019, the shares fell 2%.
+Halkbank is the one large fall that doesn't fit cleanly. It fell 13% the day after the US arrested its deputy CEO in 2017, the first sign that the case could reach the bank itself (our reading). When that charge came in 2019, the shares fell 2%.
 
 The blue bars are the 2025 sanctions on Chinese oil terminals. Treasury now sanctions one every few months, but each was a part-owned site inside a large group. Sinopec Kantons expects a HK$127M loss from closing its sanctioned terminal, and its first-half 2026 profit fell 31%, yet its shares fell only 4% in the week after the sanction. Qingdao Port owns 70% of a sanctioned terminal, and its Hong Kong shares didn't move.
 
