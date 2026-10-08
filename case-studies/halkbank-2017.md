@@ -24,7 +24,7 @@ title: "Halkbank, 2017: deputy CEO arrested"
 ## What this shows
 
 - **The market ignored years of public evidence and fell only when a senior Halkbank officer was arrested.** Part of the fall had recovered within a month.
-- **Halkbank's longer decline:** from 2015 to 2019 Halkbank fell 58% while the Turkish bank index was flat. See [the main report](../#which-listed-banks-could-be-cut-off-next).
+- **Halkbank's longer decline:** from 2015 to 2019 Halkbank fell 58% while the Turkish bank index was flat. See [the main report](../findings.html#which-listed-banks-could-be-cut-off-next).
 
 ![Share price against the local index, 60 trading days before to 20 after](../assets/case_halkbank-2017.png)
 
@@ -36,4 +36,4 @@ title: "Halkbank, 2017: deputy CEO arrested"
 - **Data and code:** [case_study_summary.csv](https://github.com/pvijeh/iran-oil-terminals/blob/main/data/case_study_summary.csv), [case_study_price_paths.csv](https://github.com/pvijeh/iran-oil-terminals/blob/main/data/case_study_price_paths.csv), [scripts/case_studies.py](https://github.com/pvijeh/iran-oil-terminals/blob/main/scripts/case_studies.py).
 - **Saved sources:** [receipts/case-studies](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/case-studies).
 
-[Back to the main report](../#was-there-warning-before-the-biggest-falls) · [All case studies](./)
+[Back to the main report](../findings.html#was-there-warning-before-the-biggest-falls) · [All case studies](./)
