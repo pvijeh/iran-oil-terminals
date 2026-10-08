@@ -36,4 +36,4 @@ title: "Hengli Petrochemical, 2026: Dalian refinery sanctioned"
 - **Data and code:** [case_study_summary.csv](https://github.com/pvijeh/iran-oil-terminals/blob/main/data/case_study_summary.csv), [case_study_price_paths.csv](https://github.com/pvijeh/iran-oil-terminals/blob/main/data/case_study_price_paths.csv), [scripts/case_studies.py](https://github.com/pvijeh/iran-oil-terminals/blob/main/scripts/case_studies.py).
 - **Saved sources:** [receipts/case-studies](https://github.com/pvijeh/iran-oil-terminals/tree/main/receipts/case-studies).
 
-[Back to the main report](../findings.html#was-there-warning-before-the-biggest-falls) · [All case studies](./)
+[Back to the main report](../) · [Full findings](../findings.html#was-there-warning-before-the-biggest-falls) · [All case studies](./)
