@@ -3,6 +3,7 @@ import csv
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+plt.rcParams.update({'font.family': 'DejaVu Sans', 'text.color': '#1f2937', 'axes.labelcolor': '#6b7280', 'xtick.color': '#6b7280', 'ytick.color': '#6b7280', 'axes.edgecolor': '#9ca3af', 'axes.grid': True, 'grid.color': '#e5e7eb', 'axes.axisbelow': True, 'axes.titlecolor': '#1f2937'})
 plt.rcParams.update({'font.size': 10.5, 'axes.spines.top': False, 'axes.spines.right': False})
 
 CUT = {'ZTE', 'COSCO Shipping Energy', 'Hengli Petrochemical'}
@@ -26,16 +27,19 @@ for r in csv.DictReader(open('data/bank_actions_price_impact.csv')):
         rows.append((f"{r['bank'].replace(' Bank', '')}, {r['date'][:4]} ({r['action_type']})", float(r['excess_5d_pct']), 'Bank threatened or charged'))
 rows = [(n + ' (−25% after 20 days)' if n.startswith('Hengli') else n, v, g) for n, v, g in rows]
 rows.sort(key=lambda x: x[1])
-colors = {'Main business cut off': '#c0392b', 'Bank threatened or charged': '#e67e22', 'Part-owned terminal sanctioned': '#2980b9', 'Fine of $300M or more': '#95a5a6'}
+colors = {'Main business cut off': '#b45309', 'Bank threatened or charged': '#475569', 'Part-owned terminal sanctioned': '#0066cc', 'Fine of $300M or more': '#cbd5e1'}
 fig, ax = plt.subplots(figsize=(9, 0.3 * len(rows) + 1.4))
 ax.barh(range(len(rows)), [v for _, v, _ in rows], color=[colors[g] for _, _, g in rows])
 ax.set_yticks(range(len(rows)), [n for n, _, _ in rows])
 ax.invert_yaxis()
-ax.axvline(0, color='black', lw=0.6)
+ax.axvline(0, color='#1f2937', lw=0.6)
 ax.set_xlabel('Share move vs local index, 5 trading days after the action (%)')
 from matplotlib.patches import Patch
 ax.legend(handles=[Patch(color=c, label=g) for g, c in colors.items()], loc='lower left', frameon=False)
 ax.set_title('Only being cut off crashes the stock', loc='left', fontweight='bold')
 fig.tight_layout()
-fig.savefig('assets/fig1_every_company_hit.png', dpi=150)
+import io
+from PIL import Image
+buf = io.BytesIO(); fig.savefig(buf, dpi=130)
+Image.open(buf).convert('RGB').quantize(64).save('assets/fig1_every_company_hit.png', optimize=True)
 print(len(rows)); [print(r) for r in rows]

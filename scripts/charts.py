@@ -3,6 +3,12 @@ import csv, json, time, statistics, urllib.request, datetime as dt
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+plt.rcParams.update({'font.family': 'DejaVu Sans', 'text.color': '#1f2937', 'axes.labelcolor': '#6b7280', 'xtick.color': '#6b7280', 'ytick.color': '#6b7280', 'axes.edgecolor': '#9ca3af', 'axes.grid': True, 'grid.color': '#e5e7eb', 'axes.axisbelow': True, 'axes.titlecolor': '#1f2937'})
+import io
+from PIL import Image
+def save(fig, path):
+    buf = io.BytesIO(); fig.savefig(buf, dpi=130)
+    Image.open(buf).convert('RGB').quantize(64).save(path, optimize=True)
 import matplotlib.dates as mdates
 
 ASIA = ('.HK', '.SS', '.SZ', '.T', '.KS', '.SI', '.BK', '.NS', '.IS')
@@ -56,7 +62,7 @@ for r in banks:
     if r['bank'] == 'Halkbank' and r['date'] < '2020':
         groups[keys[1]].append((r['date'], r['ticker'], r['index']))
 
-colors = ['#c0392b', '#e67e22', '#2980b9', '#7f8c8d']
+colors = ['#b45309', '#475569', '#0066cc', '#475569']
 fig, ax = plt.subplots(figsize=(9, 5.2))
 x = list(range(-5, 21))
 for (g, ev), c in zip(groups.items(), colors):
@@ -71,17 +77,17 @@ for (g, ev), c in zip(groups.items(), colors):
     med = [statistics.median(v) for v in zip(*ps)]
     ax.plot(x, med, color=c, lw=2.5, label=f"{g} — {len(ps)} cases")
     print(g, len(ps), f"day1 {med[6]:+.1f} day5 {med[10]:+.1f} day20 {med[25]:+.1f}")
-ax.axvline(0, color='black', lw=0.8, ls=':')
-ax.axhline(0, color='black', lw=0.6)
+ax.axvline(0, color='#1f2937', lw=0.8, ls=':')
+ax.axhline(0, color='#1f2937', lw=0.6)
 ax.set_xlabel('Trading days after the US action (0 = last close before the news)')
 ax.set_ylabel('Share price minus local index, %')
 ax.set_title('Only losing the main business crashes a stock\nTypical (median) share move around US Iran actions, 2009–2026', loc='left', fontsize=12)
 ax.legend(frameon=False, fontsize=9.5, loc='lower left')
-fig.tight_layout(); fig.savefig('assets/price_path_by_action.png', dpi=150)
+fig.tight_layout(); save(fig, 'assets/price_path_by_action.png')
 
 # Timeline
 fig, ax = plt.subplots(figsize=(9, 4.8))
-style = {'fine': ('#7f8c8d', 'Fine or settlement'), 'sanction': ('#c0392b', 'Sanction or export ban'), 'criminal': ('#e67e22', 'Criminal charge')}
+style = {'fine': ('#475569', 'Fine or settlement'), 'sanction': ('#b45309', 'Sanction or export ban'), 'criminal': ('#475569', 'Criminal charge')}
 seen = set()
 pts = [(r['date'], r['company'] + (' (Hong Kong)' if r['ticker'].endswith('.HK') else ' (Shenzhen)' if r['ticker'].endswith('.SZ') else ''), r['type'], r['excess_5d_pct']) for r in events if r['excess_5d_pct']]
 pts += [(r['date'], r['bank'], 'criminal', r['excess_5d_pct']) for r in banks
@@ -92,25 +98,25 @@ for d, name, t, v in pts:
     ax.scatter(dt.date.fromisoformat(d), float(v), s=45, color=c, alpha=.8, label=None if lab in seen else lab); seen.add(lab)
     if float(v) < -9:
         ax.annotate(f"{name} {float(v):+.0f}%", (dt.date.fromisoformat(d), float(v)), xytext=(6, -3), textcoords='offset points', fontsize=8.5)
-ax.axhline(0, color='black', lw=0.6)
+ax.axhline(0, color='#1f2937', lw=0.6)
 ax.set_ylabel('5-day move minus local index, %')
 ax.set_title('Every US Iran action against a listed company we measured\nMost moved the share price less than 5%', loc='left', fontsize=12)
 ax.legend(frameon=False, fontsize=9.5, loc='lower left')
-fig.tight_layout(); fig.savefig('assets/actions_timeline.png', dpi=150)
+fig.tight_layout(); save(fig, 'assets/actions_timeline.png')
 
 # Halkbank vs BIST Banks index
 a, b = dt.datetime(2015, 1, 1, tzinfo=dt.UTC), dt.datetime(2020, 1, 1, tzinfo=dt.UTC)
 h, i = dict(yahoo('HALKB.IS', a, b, '1wk')), dict(yahoo('XBANK.IS', a, b, '1wk'))
 d = sorted(set(h) & set(i)); r0 = h[d[0]] / i[d[0]]
 fig, ax = plt.subplots(figsize=(9, 4.6))
-ax.plot(d, [100 * h[t] / i[t] / r0 for t in d], color='#2c3e50', lw=1.6)
+ax.plot(d, [100 * h[t] / i[t] / r0 for t in d], color='#1f2937', lw=1.6)
 marks = [('2016-03-19', 'Zarrab arrested'), ('2017-03-28', 'Deputy CEO arrested'), ('2018-01-03', 'Deputy CEO convicted'),
          ('2019-10-15', 'Bank charged')]
 for k, (m, lab) in enumerate(marks):
     md = dt.date.fromisoformat(m)
-    ax.axvline(md, color='#c0392b', lw=0.8, ls='--')
-    ax.text(md, ax.get_ylim()[1] * (0.97 - 0.07 * (k % 3)), ' ' + lab, fontsize=8.5, color='#c0392b')
+    ax.axvline(md, color='#b45309', lw=0.8, ls='--')
+    ax.text(md, ax.get_ylim()[1] * (0.97 - 0.07 * (k % 3)), ' ' + lab, fontsize=8.5, color='#b45309')
 ax.set_ylabel('Halkbank ÷ Istanbul bank index (Jan 2015 = 100)')
 ax.set_title('Halkbank against other Turkish banks (BIST Banks index), 2015–2019, US actions marked\n(stops before the 2020 and 2022 share issues, which the price data does not adjust for)', loc='left', fontsize=12)
 ax.xaxis.set_major_locator(mdates.YearLocator(1))
-fig.tight_layout(); fig.savefig('assets/halkbank_vs_bist100.png', dpi=150)
+fig.tight_layout(); save(fig, 'assets/halkbank_vs_bist100.png')
